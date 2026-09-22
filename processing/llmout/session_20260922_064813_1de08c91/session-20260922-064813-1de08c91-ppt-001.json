@@ -1,0 +1,143 @@
+{
+  "ppt_name": "EDGE VISION ANNA UNIVERSITY.pptx",
+  "generation_config": {
+    "quality": "intermediate",
+    "length": "normal",
+    "target_word_range": {
+      "min": 65,
+      "max": 150
+    }
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "PRASANNA M U\nDepartment of Information TechnologyMeenakshi College of Engineering, Chennai\nprachuparamount@gmail.com",
+      "narration": "On this slide, we see the presenter's credentials: her name is Prasanna M U, and she is a faculty member in the Department of Information Technology at Meenakshi College of Engineering in Chennai. Her email address, prachuparamount@gmail.com, is also provided. This introduction is foundational, setting the stage for the content that will follow, which focuses on innovative security solutions for technology-driven safety and efficiency improvements. Let's dive into how her expertise can contribute to the advancements in AI and security systems.",
+      "estimated_word_count": 81,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 2,
+      "title": "The Problem Statement\n• Current physical surveillance systems rely heavily on manual monitoring.\n• Existing AI tools in the market are often used in inefficient way.\nResearch Summary\nIntegration of face detection, face recognition, and AI features into a real-time web application to automate threat identification and security analytics.",
+      "narration": "{\n  \"narration\": \"On slide 2, we see the core problem in current physical surveillance systems: they heavily rely on manual monitoring, which is inefficient and costly. Meanwhile, existing AI tools in the market are often used in a suboptimal way. To address these inefficiencies, our research focuses on integrating advanced features like face detection and recognition into a real-time web application. This integration aims to automate threat identification and enhance security analytics, transforming the way we handle surveillance and security tasks.\"",
+      "estimated_word_count": 81,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 3,
+      "title": "Security First\nRobust authentication and authorization protocols to protect sensitive data.",
+      "narration": "{\n  \"narration\": \"On this slide, we discussed the importance of robust authentication and authorization protocols to protect sensitive data. These protocols ensure that only authorized individuals can access important information, thereby safeguarding the integrity and confidentiality of the data. Think of it like a lock on your safe; it allows only the right people to enter. This slide emphasizes the need for strong, secure methods such as email authentication, encrypted passwords, and secure API access, to name a few. These measures form the foundation of a secure system, ensuring that our application can trust who is interacting with its data, thus enhancing overall security and reducing the risk of unauthorized access.\"",
+      "estimated_word_count": 111,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 4,
+      "title": "Automation Efficiency\nHigh Efficiency = Low Manpower + Low Cost",
+      "narration": "{\n  \"narration\": \"On this slide, we discuss the concept of automation efficiency, which is driven by two key factors: low manpower and low cost. In the realm of security systems, automation not only reduces the need for constant human intervention but also minimizes operational costs. By automating monitoring and security analytics, we can achieve higher efficiency, making our system not only more effective but also more economical. This efficiency is crucial for reducing the overall cost of security operations, making it a win-win solution for both the end-users and the businesses adopting this technology.\"",
+      "estimated_word_count": 94,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 5,
+      "title": "Cloud Service",
+      "narration": "For the cloud service component, we leverage cloud computing platforms to handle the storage, processing, and management of large amounts of data in real-time. This ensures scalability and reliability, allowing our system to process and analyze data from multiple sources efficiently. By offloading heavy computation and data storage to the cloud, we can focus on the core AI algorithms and ensure that our system remains lightweight and responsive, even in high-traffic environments.",
+      "estimated_word_count": 72,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 6,
+      "title": "Case 3: Static Premises\nCentrally mounted AI cameras (45° angle) providing 100% automated monitoring of commercial premises.",
+      "narration": "{\n  \"narration\": \"In Case 3: Static Premises, we utilize centrally mounted AI cameras positioned at a 45-degree angle. This setup ensures comprehensive, 100% automated monitoring of commercial premises. These cameras leverage advanced AI techniques to detect and analyze patterns in real-time, significantly reducing the need for manual intervention and enhancing overall security efficiency.\"",
+      "estimated_word_count": 53,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 7,
+      "title": "🛡️ Multi-tier Login & Role-based Permissions\n🛡️ Email Authentication & Supreme User Auth\n🛡️ Sha256 Encrypted Passwords\n🛡️ Token-based API Security\n🛡️ Encrypted Communication & Data Sanitization\n🛡️Usage of RESTful API",
+      "narration": "On this slide, we delve into the multi-tier login and role-based permissions system. First, we have email authentication and supreme user authentication, ensuring only authorized users can access the system. Next, we use SHA256 encryption to secure passwords, adding another layer of security. Token-based API security further enhances this by using tokens to authenticate API requests. To ensure data integrity, we also use encrypted communication and data sanitization. Lastly, we employ RESTful API for streamlined data interaction, making the system more accessible and efficient. Together, these components form a robust security framework.",
+      "estimated_word_count": 92,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 8,
+      "title": "Target Segments:\n• Law Enforcement & Police Officers• Defense Research (DRDO) & Government Agencies• Large-scale Commercial Spaces (Malls, Hubs)\nMarket Gap:\nCurrent dependence on inefficient manual manpower is costly. Our Edge AI solution transitions from labor-heavy to technology-driven security, ensuring higher profitability and precision.",
+      "narration": "{\n  \"narration\": \"On this slide, we outline the target segments for our Edge AI solution: Law Enforcement & Police Officers, Defense Research (DRDO) & Government Agencies, and Large-scale Commercial Spaces (Malls, Hubs). The market gap we aim to address is the inefficient use of manual manpower. Our solution transitions from a labor-intensive to a technology-driven approach, significantly improving profitability and precision. This move from manual to automated systems is crucial for both cost reduction and enhanced security in these sectors.\"",
+      "estimated_word_count": 80,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 9,
+      "title": "TRL 4+ Alignment:\n• Executed in controlled lab environments and made the precedence for TRL 5.• Validated reliability in simulated field conditions.\nFinal Conclusion\nEnsures civilian safety by controlling entry/exit and reducing risks through a reliable Edge-AI ecosystem. Future versions will be fine-tuned to meet specific commercial market demands.",
+      "narration": "{\n  \"narration\": \"On this slide, we discuss the TRL 4+ alignment of our Edge AI system. The system has been successfully tested in controlled lab environments, which laid the groundwork for achieving the higher TRL 5 status. Additionally, we've validated the reliability of our system in simulated field conditions. This ensures civilian safety by providing a reliable Edge-AI ecosystem that controls entry and exit, thereby reducing risks. Future versions of the system will be refined to better suit specific commercial market demands. We're committed to maintaining this level of reliability and ensuring that our system remains at the forefront of technological advancement.\"",
+      "estimated_word_count": 102,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 10,
+      "title": "Contact Details:\nPrasanna M Uprasannaprachu1@gmail.com",
+      "narration": "On this slide, you can find your contact details, which is Prasanna M Uprasannaprachu1@gmail.com. This email address is crucial for anyone looking to reach out for more information or collaboration regarding the Edge AI solution. Ensuring your contact information is clear and accessible helps facilitate communication and support for your project. Please make sure to validate the email address as it's an important part of staying in touch with potential partners and stakeholders.",
+      "estimated_word_count": 73,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    }
+  ]
+}

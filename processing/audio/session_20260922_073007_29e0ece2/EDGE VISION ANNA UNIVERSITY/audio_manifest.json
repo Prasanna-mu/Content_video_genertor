@@ -1,0 +1,78 @@
+{
+  "ppt_name": "EDGE VISION ANNA UNIVERSITY.pptx",
+  "session_id": "session_20260922_073007_29e0ece2",
+  "tts_provider": "local",
+  "slides": [
+    {
+      "slide_number": 1,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_001.wav",
+      "duration_seconds": 49.59514739229025,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 2,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_002.wav",
+      "duration_seconds": 78.7615873015873,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 3,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_003.wav",
+      "duration_seconds": 47.401541950113376,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 4,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_004.wav",
+      "duration_seconds": 44.12204081632653,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 5,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_005.wav",
+      "duration_seconds": 44.17233560090703,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 6,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_006.wav",
+      "duration_seconds": 35.02340136054422,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 7,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_007.wav",
+      "duration_seconds": 58.18453514739229,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 8,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_008.wav",
+      "duration_seconds": 53.854467120181404,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 9,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_009.wav",
+      "duration_seconds": 51.60077097505669,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 10,
+      "file_path": "processing\\audio\\session_20260922_073007_29e0ece2\\EDGE VISION ANNA UNIVERSITY\\slide_010.wav",
+      "duration_seconds": 42.59696145124717,
+      "format": "wav",
+      "provider": "local"
+    }
+  ],
+  "total_duration_seconds": 505.31278911564624
+}

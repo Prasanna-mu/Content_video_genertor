@@ -1,0 +1,143 @@
+{
+  "ppt_name": "EDGE VISION ANNA UNIVERSITY.pptx",
+  "generation_config": {
+    "quality": "beginner",
+    "length": "normal",
+    "target_word_range": {
+      "min": 65,
+      "max": 150
+    }
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "PRASANNA M U\nDepartment of Information TechnologyMeenakshi College of Engineering, Chennai\nprachuparamount@gmail.com",
+      "narration": "Hello everyone! On this slide, we have a brief introduction to our speaker, Prasanna M U. He is a faculty member from the Department of Information Technology at Meenakshi College of Engineering in Chennai. His email is prachuparamount@gmail.com. In simple terms, we have a person who teaches computer science and has experience in developing systems to protect buildings and areas. He uses his knowledge to create smart security systems using technology like AI and the internet. So, imagine if every door and window in a building could talk to each other and know who is allowed to enter - that's what Prasanna M U is working on! He's here to share how these smart security systems work and how they can make our lives safer and more secure.",
+      "estimated_word_count": 128,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 2,
+      "title": "The Problem Statement\n• Current physical surveillance systems rely heavily on manual monitoring.\n• Existing AI tools in the market are often used in inefficient way.\nResearch Summary\nIntegration of face detection, face recognition, and AI features into a real-time web application to automate threat identification and security analytics.",
+      "narration": "{\n  \"narration\": \"On the first slide, we saw how current surveillance systems rely on human eyes watching over places like offices, malls, and other spaces. It's like when you're at home and you look out the window to make sure everything is okay. But imagine if you had to do that every second for hours and hours. That's what happens with these systems now. \n\nNow, let's talk about the AI tools in the market. These are like super smart computers that can look at pictures. They can spot faces, which is really helpful for security. But sometimes, these AI tools are used in a way that's not very smart. It's like if you used your calculator to solve a math problem, but you didn't understand how it worked. The AI in today's systems isn't used as well as it could be. \n\nWhat we're working on is creating a special system. This system uses AI to look at pictures in real-time, like you're watching a TV show where the picture keeps changing. It can recognize faces, and it can also look for signs of danger. It's like having a super-smart guard watching over a place. This system will help make security better and easier, just like how having a guard can make you feel safer in your home.\"",
+      "estimated_word_count": 217,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 3,
+      "title": "Security First\nRobust authentication and authorization protocols to protect sensitive data.",
+      "narration": "{\n  \"narration\": \"On this slide, we're talking about keeping our sensitive data safe. It's like having a really strong lock on your treasure chest to keep others from peeking inside. We use something called 'authentication,' which is like proving who you are. We also use something called 'authorization,' which is like deciding who gets to open the treasure chest. We use strong passwords, like the ones you use for your toys, but even stronger. We also use something called 'email authentication,' which is like sending a secret message to someone to prove who you are. By doing all these things, we can be sure that only the right people can see our important information, just like how only you can open your treasure chest with the right key.\"",
+      "estimated_word_count": 128,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 4,
+      "title": "Automation Efficiency\nHigh Efficiency = Low Manpower + Low Cost",
+      "narration": "Let's talk about automation efficiency. Imagine you have a big store that needs to monitor every corner to keep everything running smoothly. Without automation, you'd need lots of people watching all the cameras all day. But with automation, we can use AI and technology to do this job for you. This way, you need fewer people and it's cheaper too. Think of it like having a robot that does the watching instead of a person. It saves time and money, and it's much more efficient. This is what we mean by 'Low Manpower + Low Cost.' It's like building a team of robots to watch over your store instead of hiring lots of people to do the same job. Isn't that neat?",
+      "estimated_word_count": 122,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 5,
+      "title": "Cloud Service",
+      "narration": "{\n  \"narration\": \"On the fifth slide, we talk about the cloud service. Imagine you have a big toolbox full of tools for your projects. But instead of bringing all these tools with you everywhere, you can store them in a big, secure cloud. It's like a library where you can access all your tools from anywhere. This cloud service for our system allows us to use all the smart tools we need, without having to carry everything with us. It's like having a virtual assistant that can help us with all kinds of security tasks, no matter where we are. This way, we can keep our security system running smoothly and efficiently, without worrying about running out of tools or losing them.\"",
+      "estimated_word_count": 122,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 6,
+      "title": "Case 3: Static Premises\nCentrally mounted AI cameras (45° angle) providing 100% automated monitoring of commercial premises.",
+      "narration": "In Case 3: Static Premises, we use central AI cameras that are mounted at a 45-degree angle. These cameras cover the entire area of commercial premises, ensuring that every corner is monitored. Think of them like security guards, but instead of standing in one spot, they can see everything from above. This way, no part of the area is left unwatched. It's like having a big, smart security system that can see and respond to anything that happens, making commercial spaces safer and more efficient.",
+      "estimated_word_count": 85,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 7,
+      "title": "🛡️ Multi-tier Login & Role-based Permissions\n🛡️ Email Authentication & Supreme User Auth\n🛡️ Sha256 Encrypted Passwords\n🛡️ Token-based API Security\n🛡️ Encrypted Communication & Data Sanitization\n🛡️Usage of RESTful API",
+      "narration": "On this slide, we're talking about how our system uses multi-tier login to ensure only the right people can access important parts of our system. Think of it like a security door that only lets in people with the right key. We use email to make sure you're who you say you are, like checking a driver's license. We also use a very strong password, like a super strong lock, to make sure no one can guess it. We use something called tokens, which are like a special card you need to use to get in, and we make sure all the information you share stays private, like protecting a secret. Finally, we use a type of internet language called RESTful API to talk to the system, just like how you might use a secret code with your friends to talk to each other in a game. This way, only people who should be in charge can access the important parts, just like how only someone who knows the secret code can play a game.",
+      "estimated_word_count": 175,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 8,
+      "title": "Target Segments:\n• Law Enforcement & Police Officers• Defense Research (DRDO) & Government Agencies• Large-scale Commercial Spaces (Malls, Hubs)\nMarket Gap:\nCurrent dependence on inefficient manual manpower is costly. Our Edge AI solution transitions from labor-heavy to technology-driven security, ensuring higher profitability and precision.",
+      "narration": "On this slide, we discuss the target segments for our Edge AI solution. We're focusing on three main groups: law enforcement and police officers, defense research organizations and government agencies, and large-scale commercial spaces like malls and hubs. The current situation is that these places rely heavily on manual manpower for security, which is expensive and not very efficient. Our Edge AI solution helps by taking over the security tasks, reducing the need for manual labor. This not only saves money but also makes the security process more accurate and reliable. Think of it like having a smart robot security guard instead of relying on people to watch over everything. This way, security is always there and doesn't need breaks or vacations, making the system more consistent and safer for everyone.",
+      "estimated_word_count": 131,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 9,
+      "title": "TRL 4+ Alignment:\n• Executed in controlled lab environments and made the precedence for TRL 5.• Validated reliability in simulated field conditions.\nFinal Conclusion\nEnsures civilian safety by controlling entry/exit and reducing risks through a reliable Edge-AI ecosystem. Future versions will be fine-tuned to meet specific commercial market demands.",
+      "narration": "{\n  \"narration\": \"On this slide, we're talking about how our system has reached a certain level of readiness, called TRL 4+. Think of TRL 4+ as a way to say, 'Hey, we've tested this in controlled labs and simulated real-world situations to make sure it works well.' This is important because it means our system is ready to be used in real life.\n\nNow, the final part of our conclusion is about how our system can keep people safe. By controlling who can enter and exit, and by reducing risks, we can make places safer. But this is just the beginning. We want to keep improving it, making sure it fits the needs of different places like malls and hubs. It's like when you're learning something new; you start simple, then you keep making it better over time.\"",
+      "estimated_word_count": 138,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 10,
+      "title": "Contact Details:\nPrasanna M Uprasannaprachu1@gmail.com",
+      "narration": "On this slide, you'll find your contact information: Prasanna M Uprasannaprachu1@gmail.com. This email address is where you can reach out for any questions or further information about the EDGE VISION project. Whether you're a beginner or just starting to learn about this system, having a way to contact the expert who developed it can be very helpful. It's like having a friend who knows everything about a new toy and can answer any questions you might have. So, if you're interested in learning more or have any queries, you can send an email to this address. It's an easy way to connect with the person who created this technology and understand how it works better.",
+      "estimated_word_count": 115,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    }
+  ]
+}

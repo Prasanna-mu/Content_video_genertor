@@ -1,0 +1,143 @@
+{
+  "ppt_name": "EDGE VISION ANNA UNIVERSITY.pptx",
+  "generation_config": {
+    "quality": "beginner",
+    "length": "normal",
+    "target_word_range": {
+      "min": 65,
+      "max": 150
+    }
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "PRASANNA M U\nDepartment of Information TechnologyMeenakshi College of Engineering, Chennai\nprachuparamount@gmail.com",
+      "narration": "Hello everyone. I'm Prasanna M U from the Department of Information Technology at Meenakshi College of Engineering in Chennai. My email is prachuparamount@gmail.com. I'm here to talk about our innovative approach to improving security systems using AI and Edge technology. Let's start by understanding what we're dealing with. Currently, many security systems rely on human monitoring, which is time-consuming and costly. Imagine you're at a mall and there are many people entering and exiting. It would be impossible for one person to check every face every second. That's where AI comes in. We're developing a real-time web application that can automatically detect and recognize faces. This means we can efficiently monitor large spaces and alert us to any suspicious activity. It's like having a smart security guard in the background, watching over everything without needing to be physically present. This automation not only saves manpower but also reduces costs. So, we're aiming to make security systems more efficient and cost-effective by using advanced AI technology. Thank you for listening!",
+      "estimated_word_count": 169,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "The narration is technically consistent with the slide and relevant to the slide topic. However, it could be more concise and directly address the slide content without unnecessary repetition.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 2,
+      "title": "The Problem Statement\n• Current physical surveillance systems rely heavily on manual monitoring.\n• Existing AI tools in the market are often used in inefficient way.\nResearch Summary\nIntegration of face detection, face recognition, and AI features into a real-time web application to automate threat identification and security analytics.",
+      "narration": "Let's talk about the problem with current physical surveillance systems. You know how sometimes you see security guards standing at a corner, watching the entrance of a building? That's kind of like manual monitoring. But it's not very efficient, is it? The guards might miss something important, or they might be too busy to notice everything. Now, imagine if we could replace those guards with a smart system. This system would be watching all the time and catch things that the human eye might miss. That's what we're trying to do with our project. We're going to add smart features like face detection and face recognition to a web application. This way, it can automatically identify if there's anyone who shouldn't be there and help keep the place safe. It's like having a super smart security guard who never gets tired and never misses anything important. By using technology, we can make security more efficient and cost-effective compared to hiring more guards. Isn't that cool?",
+      "estimated_word_count": 165,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 3,
+      "title": "Security First\nRobust authentication and authorization protocols to protect sensitive data.",
+      "narration": "{\n  \"narration\": \"On this slide, we talk about the importance of having strong security measures to protect important information. Imagine you have a treasure chest, and you want to make sure only your closest friends can open it. That's what we do with sensitive data. We use strong passwords like a secret code that only you know. We also have special checks to make sure only people who should have access can look at the data. It's like having a lock on your door that only your key can open. This way, we keep the important information safe and secure, just like you keep your favorite toy safe in your safe little hiding spot.\"",
+      "estimated_word_count": 114,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 4,
+      "title": "Automation Efficiency\nHigh Efficiency = Low Manpower + Low Cost",
+      "narration": "{\n  \"narration\": \"On this slide, we're talking about how automation can make things more efficient. Imagine you have a lot of work to do, like organizing a big classroom. If you do everything by hand, it takes a lot of time and can be boring. But if you use a computer to help you, you can do the same work much faster and with less effort. This is what we mean by 'automation efficiency.' It means using technology to do the hard work, so you have more time to do other important things. By doing this, we can save time and money, which is what we mean by 'low manpower and low cost.' It's like when you use a robot to clean your room instead of cleaning it all by yourself – it gets the job done quicker and easier. This helps us save a lot of time, just like how a robot can clean the room faster than a person. That's why automation is so important – it makes things better and more efficient for everyone.\"",
+      "estimated_word_count": 177,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 5,
+      "title": "Cloud Service",
+      "narration": "On this slide, we're talking about the cloud service. It's like when you have a big cloud in the sky, but instead of rain, it's storing important information that our system uses. This cloud service is like a superhero that helps our system work even when we're not at home. It stores all the information we need for our security system, and it's very safe because it's like a locked door that only some people can open. This way, our system can keep working even if we're not there, and we don't have to worry about losing any important information. It's like having a friend who takes care of your toys when you're not home, but for important data instead of toys.",
+      "estimated_word_count": 122,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 6,
+      "title": "Case 3: Static Premises\nCentrally mounted AI cameras (45° angle) providing 100% automated monitoring of commercial premises.",
+      "narration": "In Case 3, we're focusing on static premises like commercial buildings. Imagine these places have cameras installed at the center, looking down from a height of about 45 degrees. These cameras are like the eyes of the building, always watching and recording everything happening inside. It's like having a security guard on top of the building who can see everything going on. This system can watch over the entire building without needing to move or point the cameras in different directions. This way, the building doesn't need a human security guard, saving a lot of money and reducing the risk of human error. The cameras send all the footage they see to a computer system where smart algorithms can analyze it for any suspicious activity. This automated system is very efficient and cost-effective compared to having humans watch over the building all the time.",
+      "estimated_word_count": 144,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 7,
+      "title": "🛡️ Multi-tier Login & Role-based Permissions\n🛡️ Email Authentication & Supreme User Auth\n🛡️ Sha256 Encrypted Passwords\n🛡️ Token-based API Security\n🛡️ Encrypted Communication & Data Sanitization\n🛡️Usage of RESTful API",
+      "narration": "On this slide, we're talking about how to make sure only the right people can use our system. Imagine you have a special clubhouse, and you want to make sure only the members can enter. We use something called a multi-tier login system, which is like having different levels of security. First, you need to show a picture of yourself through your email, which is like showing your membership card. Then, we use a super strong password that looks like a bunch of random letters and numbers, kind of like a secret code. We also use something called tokens, which are like special keys that help us know you're the right person. To keep everything safe, we send all the information through a secure channel, like a super fast and private email. Finally, we use something called RESTful APIs, which is like a set of rules that all the devices use to talk to each other. This way, we can make sure only the people who should be using the system are using it, keeping everything safe and secure.",
+      "estimated_word_count": 179,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 8,
+      "title": "Target Segments:\n• Law Enforcement & Police Officers• Defense Research (DRDO) & Government Agencies• Large-scale Commercial Spaces (Malls, Hubs)\nMarket Gap:\nCurrent dependence on inefficient manual manpower is costly. Our Edge AI solution transitions from labor-heavy to technology-driven security, ensuring higher profitability and precision.",
+      "narration": "On this slide, we see who our target segments are. They are the Law Enforcement and Police Officers, Defense Research (DRDO) and Government Agencies, and Large-scale Commercial Spaces like malls and hubs. The market gap here is that many places still use manual manpower for security, which can be very costly. But our new Edge AI system is different. It uses technology to automate security tasks, reducing the need for people and saving money. It’s like having a smart security system instead of relying on guards who might get tired or make mistakes. This way, the security is better and more reliable.",
+      "estimated_word_count": 102,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 9,
+      "title": "TRL 4+ Alignment:\n• Executed in controlled lab environments and made the precedence for TRL 5.• Validated reliability in simulated field conditions.\nFinal Conclusion\nEnsures civilian safety by controlling entry/exit and reducing risks through a reliable Edge-AI ecosystem. Future versions will be fine-tuned to meet specific commercial market demands.",
+      "narration": "{\"narration\": \"On this slide, we discuss the TRL 4+ alignment of our project. TRL stands for Technology Readiness Level, and it's a scale used to measure how close a technology is to being ready for real-world use. Our project has reached TRL 4+, which means it's been tested in carefully controlled lab environments and has shown that it works reliably under simulated real-world conditions. This is a big step forward from the early stages of development.\n\nThe final conclusion is that with this reliable Edge AI system, we can ensure civilian safety by controlling entry and exit points. It reduces risks and makes our system even more effective. Future versions of our system will be adjusted to meet the specific needs of different commercial environments. Think of it like upgrading your smartphone - the first version might be fun to play games on, but as we learn more and test it, we can make it better for more uses, like taking photos and videos too. Our Edge AI system is getting better and better, just like how your smartphone keeps getting smarter and more useful with updates.\"}",
+      "estimated_word_count": 187,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 10,
+      "title": "Contact Details:\nPrasanna M Uprasannaprachu1@gmail.com",
+      "narration": "{\n  \"narration\": \"On this last slide, you'll find my contact information. My email address is Prasanna M Uprasannaprachu1@gmail.com. This is where you can reach me if you have any questions or want to learn more about what we've discussed today. Whether it's about the technology we've been talking about or any other aspects of our project, this email is a great way to get in touch. Don't hesitate to send me a message if you have something specific you'd like to discuss. Thank you for your time, and I look forward to hearing from you.\"",
+      "estimated_word_count": 95,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    }
+  ]
+}

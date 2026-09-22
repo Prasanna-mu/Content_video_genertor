@@ -1,0 +1,17 @@
+{
+  "session_id": "session_20260922_160312_73eaed56",
+  "created_at": "2026-09-22T10:33:12.217109",
+  "updated_at": "2026-09-22T10:33:12.532166",
+  "jobs": [
+    {
+      "ppt_id": "session_20260922_160312_73eaed56_ppt_001",
+      "file": "EDGE VISION ANNA UNIVERSITY.pptx",
+      "status": "completed",
+      "parse_status": "completed",
+      "content_status": "pending",
+      "quality_status": "pending",
+      "tts_status": "pending",
+      "video_status": "pending"
+    }
+  ]
+}

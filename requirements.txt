@@ -1,0 +1,5 @@
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+python-pptx>=1.0.0
+imageio-ffmpeg>=0.4.0
