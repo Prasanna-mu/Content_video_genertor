@@ -3,7 +3,7 @@ import sys
 from orchestrator import (
     SessionManager,
     PPTProcessor,
-    load_jobs_from_json,
+    discover_ppt_files,
     create_ppt_jobs,
     ChecklistManager,
     generate_content_for_session,
@@ -48,20 +48,19 @@ def ask_length() -> str:
 
 
 def process_ppts(session_id: str, quality: str, length: str):
-    logger.info(f"[{session_id}] Loading jobs from data/jobs.json")
-    jobs_data = load_jobs_from_json()
+    logger.info(f"[{session_id}] Discovering PPT files in input/ppt/")
+    ppt_filenames = discover_ppt_files()
 
-    if not jobs_data:
-        logger.warning(f"[{session_id}] No jobs found in data/jobs.json")
+    if not ppt_filenames:
+        logger.warning(f"[{session_id}] No PPT files found in input/ppt/")
         return
 
-    enabled_jobs = [j for j in jobs_data if j.get("enabled", True)]
-    logger.info(f"[{session_id}] Found {len(enabled_jobs)} enabled PPT jobs")
+    logger.info(f"[{session_id}] Found {len(ppt_filenames)} PPT file(s)")
 
     session_manager = SessionManager()
-    session_manager.update_session_counts(session_id, total=len(enabled_jobs))
+    session_manager.update_session_counts(session_id, total=len(ppt_filenames))
 
-    ppt_jobs = create_ppt_jobs(session_id, enabled_jobs)
+    ppt_jobs = create_ppt_jobs(session_id, ppt_filenames)
     logger.info(f"[{session_id}] Created {len(ppt_jobs)} PPT job records")
 
     checklist_manager = ChecklistManager(session_id)

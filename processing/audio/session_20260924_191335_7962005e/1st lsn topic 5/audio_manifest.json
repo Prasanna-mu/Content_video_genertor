@@ -1,0 +1,148 @@
+{
+  "ppt_name": "1st lsn topic 5.pptx",
+  "session_id": "session_20260924_191335_7962005e",
+  "tts_provider": "local",
+  "slides": [
+    {
+      "slide_number": 1,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_001.wav",
+      "duration_seconds": 55.075056689342404,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 2,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_002.wav",
+      "duration_seconds": 47.39591836734694,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 3,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_003.wav",
+      "duration_seconds": 43.093061224489794,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 4,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_004.wav",
+      "duration_seconds": 57.15904761904762,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 5,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_005.wav",
+      "duration_seconds": 50.554965986394556,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 6,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_006.wav",
+      "duration_seconds": 58.259455782312926,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 7,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_007.wav",
+      "duration_seconds": 45.991201814058954,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 8,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_008.wav",
+      "duration_seconds": 51.811020408163266,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 9,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_009.wav",
+      "duration_seconds": 41.43736961451247,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 10,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_010.wav",
+      "duration_seconds": 43.80244897959184,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 11,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_011.wav",
+      "duration_seconds": 52.1659410430839,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 12,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_012.wav",
+      "duration_seconds": 51.35124716553288,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 13,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_013.wav",
+      "duration_seconds": 54.94444444444444,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 14,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_014.wav",
+      "duration_seconds": 57.844036281179136,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 15,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_015.wav",
+      "duration_seconds": 47.436734693877554,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 16,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_016.wav",
+      "duration_seconds": 38.58848072562358,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 17,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_017.wav",
+      "duration_seconds": 49.16108843537415,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 18,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_018.wav",
+      "duration_seconds": 54.770204081632656,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 19,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_019.wav",
+      "duration_seconds": 51.76965986394558,
+      "format": "wav",
+      "provider": "local"
+    },
+    {
+      "slide_number": 20,
+      "file_path": "processing\\audio\\session_20260924_191335_7962005e\\1st lsn topic 5\\slide_020.wav",
+      "duration_seconds": 49.741451247165536,
+      "format": "wav",
+      "provider": "local"
+    }
+  ],
+  "total_duration_seconds": 1002.3528344671201
+}

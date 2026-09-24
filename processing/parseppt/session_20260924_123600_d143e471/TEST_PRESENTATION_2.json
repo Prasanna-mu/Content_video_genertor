@@ -1,0 +1,124 @@
+{
+  "ppt": {
+    "filename": "TEST_PRESENTATION_2.pptx",
+    "slide_count": 10
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "PRASANNA M U\nDepartment of Information TechnologyMeenakshi College of Engineering, Chennai\nprachuparamount@gmail.com",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 5
+    },
+    {
+      "slide_number": 2,
+      "title": "The Problem Statement\n• Current physical surveillance systems rely heavily on manual monitoring.\n• Existing AI tools in the market are often used in inefficient way.\nResearch Summary\nIntegration of face detection, face recognition, and AI features into a real-time web application to automate threat identification and security analytics.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 4
+    },
+    {
+      "slide_number": 3,
+      "title": "Security First\nRobust authentication and authorization protocols to protect sensitive data.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 11
+    },
+    {
+      "slide_number": 4,
+      "title": "Automation Efficiency\nHigh Efficiency = Low Manpower + Low Cost",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [
+        {
+          "shape_id": 122,
+          "content_type": "image/png",
+          "size_bytes": 100511,
+          "width": 7316943,
+          "height": 3516748
+        }
+      ],
+      "shapes_count": 7
+    },
+    {
+      "slide_number": 5,
+      "title": "Cloud Service",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 6,
+      "title": "Case 3: Static Premises\nCentrally mounted AI cameras (45° angle) providing 100% automated monitoring of commercial premises.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 9
+    },
+    {
+      "slide_number": 7,
+      "title": "🛡️ Multi-tier Login & Role-based Permissions\n🛡️ Email Authentication & Supreme User Auth\n🛡️ Sha256 Encrypted Passwords\n🛡️ Token-based API Security\n🛡️ Encrypted Communication & Data Sanitization\n🛡️Usage of RESTful API",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 4
+    },
+    {
+      "slide_number": 8,
+      "title": "Target Segments:\n• Law Enforcement & Police Officers• Defense Research (DRDO) & Government Agencies• Large-scale Commercial Spaces (Malls, Hubs)\nMarket Gap:\nCurrent dependence on inefficient manual manpower is costly. Our Edge AI solution transitions from labor-heavy to technology-driven security, ensuring higher profitability and precision.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 4
+    },
+    {
+      "slide_number": 9,
+      "title": "TRL 4+ Alignment:\n• Executed in controlled lab environments and made the precedence for TRL 5.• Validated reliability in simulated field conditions.\nFinal Conclusion\nEnsures civilian safety by controlling entry/exit and reducing risks through a reliable Edge-AI ecosystem. Future versions will be fine-tuned to meet specific commercial market demands.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [
+        {
+          "shape_id": 182,
+          "content_type": "image/png",
+          "size_bytes": 767533,
+          "width": 6358054,
+          "height": 3625617
+        }
+      ],
+      "shapes_count": 5
+    },
+    {
+      "slide_number": 10,
+      "title": "Contact Details:\nPrasanna M Uprasannaprachu1@gmail.com",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 4
+    }
+  ]
+}

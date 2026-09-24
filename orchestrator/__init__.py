@@ -1,5 +1,5 @@
 from orchestrator.session_manager import SessionManager
-from orchestrator.ppt_processor import PPTProcessor, load_jobs_from_json, create_ppt_jobs
+from orchestrator.ppt_processor import PPTProcessor, discover_ppt_files, create_ppt_jobs
 from orchestrator.checklist_manager import ChecklistManager
 from orchestrator.content_generator import ContentGenerator, generate_content_for_session
 from orchestrator.quality_checker import QualityChecker
@@ -10,7 +10,7 @@ from orchestrator.slide_converter import SlideConverter, convert_slides_for_job,
 __all__ = [
     "SessionManager",
     "PPTProcessor",
-    "load_jobs_from_json",
+    "discover_ppt_files",
     "create_ppt_jobs",
     "ChecklistManager",
     "ContentGenerator",

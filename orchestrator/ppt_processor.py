@@ -12,6 +12,7 @@ from models.models import PPTJob, PPTJobStatus, Slide, SlideStatus
 from config.settings import settings
 from utils.json_utils import save_json
 from utils.logging import get_logger
+from utils.filesystem import ensure_dir
 
 
 logger = get_logger("ppt_processor")
@@ -260,37 +261,45 @@ class PPTProcessor:
         self.db.close()
 
 
-def load_jobs_from_json() -> List[Dict[str, Any]]:
-    jobs_path = Path("data/jobs.json")
-    if not jobs_path.exists():
-        logger.warning("jobs.json not found")
-        return []
-    with open(jobs_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    return data.get("jobs", [])
+def discover_ppt_files() -> List[str]:
+    ppt_dir = settings.INPUT_PPT_DIR
+    ensure_dir(ppt_dir)
+    
+    pptx_files = list(ppt_dir.glob("*.pptx"))
+    pptx_files += list(ppt_dir.glob("*.ppt"))
+    
+    filenames = [f.name for f in pptx_files]
+    logger.info(f"Discovered {len(filenames)} PPT file(s) in {ppt_dir}: {filenames}")
+    return filenames
 
 
-def create_ppt_jobs(session_id: str, jobs_data: List[Dict[str, Any]]) -> List[PPTJob]:
+def create_ppt_jobs(session_id: str, ppt_filenames: List[str]) -> List[PPTJob]:
     db = SessionLocal()
     created_jobs = []
 
-    for job_data in jobs_data:
-        if not job_data.get("enabled", True):
-            continue
-
+    for filename in ppt_filenames:
         # Generate session-specific job ID to avoid conflicts across sessions
-        job_id = f"{session_id}_{job_data['id']}"
+        base_name = Path(filename).stem
+        job_id = f"{session_id}_{base_name}"
 
         # Check if job already exists (for resumability)
         existing = db.query(PPTJob).filter(PPTJob.id == job_id).first()
         if existing:
-            created_jobs.append(existing)
-            continue
+            # Verify the file still exists
+            ppt_path = settings.INPUT_PPT_DIR / existing.ppt_filename
+            if ppt_path.exists():
+                created_jobs.append(existing)
+                continue
+            else:
+                logger.warning(f"[{session_id}] PPT file missing for existing job {existing.id}: {existing.ppt_filename}")
+                existing.status = PPTJobStatus.FAILED
+                existing.error = f"Source file no longer exists: {existing.ppt_filename}"
+                db.commit()
 
         ppt_job = PPTJob(
             id=job_id,
             session_id=session_id,
-            ppt_filename=job_data["file"],
+            ppt_filename=filename,
             status=PPTJobStatus.PENDING,
         )
         db.add(ppt_job)

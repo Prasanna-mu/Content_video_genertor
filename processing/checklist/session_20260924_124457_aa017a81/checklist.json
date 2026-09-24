@@ -1,0 +1,27 @@
+{
+  "session_id": "session_20260924_124457_aa017a81",
+  "created_at": "2026-09-24T07:14:57.272551",
+  "updated_at": "2026-09-24T07:14:57.459356",
+  "jobs": [
+    {
+      "ppt_id": "session_20260924_124457_aa017a81_corrupt",
+      "file": "corrupt.pptx",
+      "status": "failed",
+      "parse_status": "failed",
+      "content_status": "pending",
+      "quality_status": "pending",
+      "tts_status": "pending",
+      "video_status": "pending"
+    },
+    {
+      "ppt_id": "session_20260924_124457_aa017a81_EDGE VISION ANNA UNIVERSITY",
+      "file": "EDGE VISION ANNA UNIVERSITY.pptx",
+      "status": "completed",
+      "parse_status": "completed",
+      "content_status": "pending",
+      "quality_status": "pending",
+      "tts_status": "pending",
+      "video_status": "pending"
+    }
+  ]
+}

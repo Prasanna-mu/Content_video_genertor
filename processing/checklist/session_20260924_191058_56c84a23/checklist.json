@@ -1,0 +1,17 @@
+{
+  "session_id": "session_20260924_191058_56c84a23",
+  "created_at": "2026-09-24T13:40:58.491180",
+  "updated_at": "2026-09-24T13:40:58.543573",
+  "jobs": [
+    {
+      "ppt_id": "session_20260924_191058_56c84a23_EDGE VISION",
+      "file": "EDGE VISION.pptx",
+      "status": "failed",
+      "parse_status": "failed",
+      "content_status": "pending",
+      "quality_status": "pending",
+      "tts_status": "pending",
+      "video_status": "pending"
+    }
+  ]
+}

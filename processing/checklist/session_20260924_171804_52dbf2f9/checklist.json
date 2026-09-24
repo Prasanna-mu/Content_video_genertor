@@ -1,0 +1,37 @@
+{
+  "session_id": "session_20260924_171804_52dbf2f9",
+  "created_at": "2026-09-24T11:48:04.359075",
+  "updated_at": "2026-09-24T12:53:03.408852",
+  "jobs": [
+    {
+      "ppt_id": "session_20260924_171804_52dbf2f9_1st lsn topic 1",
+      "file": "1st lsn topic 1.pptx",
+      "status": "completed",
+      "parse_status": "completed",
+      "content_status": "pending",
+      "quality_status": "pending",
+      "tts_status": "pending",
+      "video_status": "completed"
+    },
+    {
+      "ppt_id": "session_20260924_171804_52dbf2f9_1st lsn topic 2",
+      "file": "1st lsn topic 2.pptx",
+      "status": "completed",
+      "parse_status": "completed",
+      "content_status": "pending",
+      "quality_status": "pending",
+      "tts_status": "pending",
+      "video_status": "completed"
+    },
+    {
+      "ppt_id": "session_20260924_171804_52dbf2f9_1st lsn topic 3",
+      "file": "1st lsn topic 3.pptx",
+      "status": "completed",
+      "parse_status": "completed",
+      "content_status": "pending",
+      "quality_status": "pending",
+      "tts_status": "pending",
+      "video_status": "completed"
+    }
+  ]
+}

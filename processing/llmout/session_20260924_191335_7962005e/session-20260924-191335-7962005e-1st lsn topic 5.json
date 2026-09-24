@@ -1,0 +1,273 @@
+{
+  "ppt_name": "1st lsn topic 5.pptx",
+  "generation_config": {
+    "quality": "beginner",
+    "length": "normal",
+    "target_word_range": {
+      "min": 65,
+      "max": 150
+    }
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "SUBTOPIC  •  USER PERSONAS AND STORIES\nIntermediate | CO: Understand and apply design-thinking principles",
+      "narration": "On this slide, we're talking about user personas and stories. Think of personas as pretend people who represent different groups of users. They help us understand who might use our product and what they want. Stories are like little tales that show us what the user might achieve. We make these personas and stories like we're making hypotheses - ideas that we can change and improve. It's important not to pick just one person to represent an entire group, or to put too much detail in our personas. We only use details that help us make better decisions about our product. Personas and stories are good for showing us what we might achieve, but they're not the final answer. We test these ideas with real users to see if they work. At the end, we have a clearer idea of what we should do with our product, and it helps us make better decisions.",
+      "estimated_word_count": 154,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 2,
+      "title": "Personas describe who and context; stories describe desired progress and why it matters.",
+      "narration": "On this slide, we learn about two important concepts: personas and stories. Personas are like fictional characters that represent the different people who will use our product or service. They describe who these people are and where they come from. For example, a persona might be a young professional who uses their phone frequently for work. Stories, on the other hand, are like little tales that tell us what these people want to achieve and why it matters. They help us understand how the product can help people like the persona. So, personas give us information about who we're designing for, and stories show us what we want them to do. Together, they help us create better products that really meet people’s needs and goals.",
+      "estimated_word_count": 125,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 3,
+      "title": "Intermediate practice means treating personas and stories as revisable hypotheses.",
+      "narration": "{\n  \"narration\": \"On this slide, we're talking about something called 'revisable hypotheses.' Think of it like when you're building a sandcastle, and you can change it as you build. You start with a basic idea, but you can always make changes. With personas and stories, it's the same. You start with a basic idea of who you're talking to and what you want to happen. But just like your sandcastle, you can always change it as you go along. This helps you be more flexible and make sure you're really understanding what you're talking about. It's like when you're building a sandcastle, you can always add more details or change parts until it looks just right.\"",
+      "estimated_word_count": 116,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 4,
+      "title": "Build personas around meaningful differences in needs and behavior, not decorative detail.",
+      "narration": "On this slide, we learn that when creating personas, it's important to focus on the real differences in people's needs and behaviors, rather than just adding extra details that don't add much value. Think of personas like characters in a story. Just like a story character shouldn't have every detail about their life, a persona shouldn't have every detail about a person's needs and behavior. We want to understand the key differences that make each persona unique, so we can make better decisions about how to design things for them. For example, if you're designing a game, you might have a persona who loves fast-paced action versus one who prefers a more relaxing experience. The differences here are important because they guide how you design the game to suit both types of players. So, when creating personas, keep them focused on these real differences, not just adding extra, unnecessary details.",
+      "estimated_word_count": 150,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 5,
+      "title": "Avoid turning one participant into a representative user group.",
+      "narration": "On this slide, we learn that it's important not to treat one person as if they represent an entire group. Think of this like when you have a friend who likes all the same things as you. You can't assume that just because they like it, everyone else will like it too. Instead, we should focus on understanding different people's needs and preferences individually. This is important because people are different, and what one person likes might not be what another person likes. For example, if we only look at one friend as a representative of all their friends, we might miss out on finding out what other friends want or need. So, instead of assuming one person's preferences, we should focus on learning about different people's needs. This way, we can make better decisions about what to make or design.",
+      "estimated_word_count": 141,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 6,
+      "title": "Demographics belong only when they inform a real design decision.",
+      "narration": "{\n  \"narration\": \"On this slide, we learn that demographics should only be used when they actually help us make real design decisions. Think of demographics like a map: they’re only useful if they show us the shortest path to our destination. If a demographic detail doesn’t help us understand the needs of our users better, we shouldn’t use it. For example, if we’re designing a website for a retail store, knowing that most of our customers are between 25 and 35 years old might be useful. It helps us tailor the design to their age group. But if we have a website for a fitness center, knowing the age might not help as much. Instead, we’d focus on things like their fitness level or goals, which can make our design choices clearer and more effective. So, in simple terms, we use demographics only when they give us a clearer picture of who we’re designing for and how to make the best choices.\"",
+      "estimated_word_count": 162,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 7,
+      "title": "Treat Alex as a synthesis of a target group—not a verified individual without research.",
+      "narration": "{\n  \"narration\": \"On this slide, we learn about treating Alex as a synthesis of a target group, not as a verified individual without research. Think of Alex like a character in a story we're creating. They're not a real person we've interviewed, but a way to represent a group of people. For example, if we're designing a product for different age groups, Alex could be a mix of what teenagers and grandparents might need. It helps us understand the overall needs of our target audience without going through the hassle of interviewing everyone. Remember, Alex is just a tool to help us make better decisions, not the final answer. This way, we can keep the design process flexible and open to different ideas.\"",
+      "estimated_word_count": 123,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 8,
+      "title": "A useful persona supports decisions while making uncertainty visible.",
+      "narration": "{\n  \"narration\": \"On this slide, we learn about how a useful persona helps us make decisions, even when we're not sure what the right answer is. Imagine you're planning a new toy. You want to know who will play with it and how it will be used. A persona is like a pretend kid who plays with your toy. This pretend kid helps you think about different people who might use your toy and how they might use it. By using this pretend kid, you can decide which features your toy should have, even if you're not sure if you've thought of everything. It's like a game where you play pretend and make choices, but you know you can always change your mind later. This helps you stay flexible and find the best solution for your toy. So, personas are like helpful guides that make decisions easier and keep you from being too sure about everything at once.\"",
+      "estimated_word_count": 158,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 9,
+      "title": "Stories are conversation starters and planning aids, not complete specifications.",
+      "narration": "{\n  \"narration\": \"On this slide, we learn that stories are like conversation starters and planning tools, not detailed blueprints for building something. They help us think through our ideas and get feedback. Imagine you're planning a party. Instead of writing a full menu, you might just tell a story about the kind of food you'd like to have—like 'We'll have a mix of salads, sandwiches, and a few cold dishes.' This gives people an idea and helps them understand what you're looking for. Stories are like that—helpful guides for thinking and planning, not final instructions. They let us see how things might work and get ideas for improvement.\"",
+      "estimated_word_count": 108,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 10,
+      "title": "Check each story with real users; feature requests can mask deeper needs.",
+      "narration": "{\n  \"narration\": \"On this slide, we learn about checking our stories with real users. Sometimes, when we make feature requests, we might forget to see if they really solve the users' problems. Think of it like trying to fix a broken toy without actually playing with it first. We should ask real users if our feature request meets their needs. This helps us see if we're missing something important, like maybe the toy is broken in a different way than we thought. It's like asking your friend if they like a new game - it's easier to know if it's good or not after they try it out. This way, we can make sure our stories are really helping users, not just making them want more features.\"",
+      "estimated_word_count": 127,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 11,
+      "title": "Specificity improves testability without dictating the final solution.",
+      "narration": "{\n  \"narration\": \"On this slide, we're talking about making your personas and stories as specific as possible. This is important because it helps you test your ideas more easily, without dictating the final solution. Imagine you're trying to design a new ice cream flavor. If you say, 'We need a flavor that kids love,' that's too vague. Instead, you could say, 'We need a chocolate chip cookie dough flavor for kids aged 8 to 12.' This makes it much easier to test and refine, just like when you're making ice cream. The more specific you are, the clearer your ideas become, and the better you can see if they work. It's like when you're playing a game and you give your friend hints to help them guess correctly. The more specific you are with your hints, the better they can play and understand the game.\"",
+      "estimated_word_count": 145,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 12,
+      "title": "Acceptance criteria clarify “done”; they should not replace user validation.",
+      "narration": "{\n  \"narration\": \"On this slide, we're talking about something called 'acceptance criteria'. Think of acceptance criteria as a checklist that helps us know when a project is done. It's like saying, 'We've reached the finish line!'. But here's the important part: acceptance criteria shouldn't be the only thing we use to know if our project is good. We still need to check if it works for everyone who uses it, which is what we call 'user validation'. So, acceptance criteria helps us say, 'We're done!', but we always need to check if what we made works for real people. It's like having a map to a destination, but we still need to walk the path to make sure we're not in the wrong place. The acceptance criteria is our map, but we need to check it with actual users to be sure it's right.\"",
+      "estimated_word_count": 144,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 13,
+      "title": "Ask open questions; protect privacy; record quotes separately from interpretation.",
+      "narration": "On this slide, we're talking about asking open questions, which means asking questions that allow people to share their thoughts freely. This is important because it helps us understand what users really want and need. For example, instead of asking 'What color do you prefer for the new app?' which gives a limited answer, you could ask 'What do you think would make this app work better for you?' This helps us gather more useful information. We also need to protect people's privacy. That means keeping their personal information confidential and only using it for what it was intended for. Lastly, it's important to record quotes separately from the interpretation of those quotes. This way, we have the exact words people said, and we can explain them clearly without changing their meaning. This helps us build a clearer picture of what users think and want.",
+      "estimated_word_count": 145,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 14,
+      "title": "Do not promote a single note to a persona-wide truth without triangulation.",
+      "narration": "On this slide, we learn about a key principle called 'triangulation.' Imagine you're trying to understand what a group of people think about something, like what games they like to play. If you only ask one person, you might get a very one-sided answer. Triangulation is like asking three different people to get a clearer picture. It's like if you only ask your friend if they like chocolate ice cream, but then you also ask your mom and your best friend for their opinions. This way, you have a better idea of what flavors everyone prefers. Similarly, when creating personas and stories, it's important to hear from multiple people or sources to avoid just one person's view influencing the whole group. This helps make sure your understanding is accurate and not just a single note or opinion. So, always try to get more than one perspective to ensure your final results are well-rounded and accurate.",
+      "estimated_word_count": 155,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 15,
+      "title": "Prototype the smallest experience that can answer the riskiest question.",
+      "narration": "On this slide, we learn about prototyping the smallest experience that can answer the riskiest question. Imagine you're building a new app, and you're not sure if it will work for everyone. You want to test a small part of the app to see if it works well. This is called a prototype. A prototype is like making a tiny version of your app to see if it's going to be good for everyone who might use it. It's the smallest part that can show you if your idea is working. For example, if you're making a game, you might just make one level to see if people like it. This way, you can find out if your idea is a good one without wasting a lot of time and effort. This helps you make better decisions and not make big mistakes when you build the whole thing.",
+      "estimated_word_count": 148,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 16,
+      "title": "Test whether the promise resonates and whether the prototype delivers the outcome.",
+      "narration": "{\n  \"narration\": \"On this slide, we learn about testing the prototype to make sure it delivers the expected outcome. Let's imagine you're making a toy car, and you think it will go fast. You build a prototype and test it. If it goes faster than you expected, that means your idea is good. But if it doesn’t go as fast as you hoped, then you might need to change something. So, testing helps you see if your idea works as you want it to, like making sure your toy car really does go fast, not slow. It’s a way to check if your idea is correct before you make it official.\"",
+      "estimated_word_count": 111,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 17,
+      "title": "Stories define the progress to support; they do not prescribe only one concept.",
+      "narration": "On this slide, we're focusing on how stories help guide our progress in design thinking, but they don't tell us exactly what to do. Think of stories like a map showing us where we want to go, but not exactly how to get there. For example, if you're designing a new app to help people manage their time, a story might say, 'We want users to feel less stressed about their schedules.' That's the progress we're aiming for, but it doesn't specify every detail. The stories help us understand the goal, but the actual design and solutions are figured out through testing and refinement. So, while stories are very helpful, they're not rules—you can use them to help you decide where to go, but the exact steps will come from experimenting and making changes as you go along.",
+      "estimated_word_count": 138,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 18,
+      "title": "Map dependencies and feedback loops before optimizing one user’s screen.",
+      "narration": "{\n  \"narration\": \"On this slide, we learn about the importance of understanding how different parts of a system are connected and how changes in one area can affect others. Imagine you're building a toy car. If you change the wheels, you might make the car go faster, but if you also change the engine at the same time, you could end up with a car that isn't balanced. Understanding these connections is like mapping out how different pieces of a puzzle fit together. Before we start making big changes, it's important to look at how the whole system works. This way, we can make sure our changes are the best they can be and don’t cause problems elsewhere. For example, if you're fixing a website, we want to see how the new features you're adding will work with all the other parts of the site. This way, when you’re done, the whole thing feels smooth and works well together.\"",
+      "estimated_word_count": 159,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 19,
+      "title": "Deliverable: one revised persona insight, one story, and one test question.",
+      "narration": "On this slide, you'll learn about your final deliverables for this topic. You need to come up with one revised persona insight, which means looking at your user persona and thinking about how it could be improved. You'll also create one story, which is like a little tale about how your user might use your product. Finally, you'll come up with one test question, which is a simple question you can ask a real user to see if your product is working well. It's like checking if your toy works before you give it to someone else to play with. So, think of your persona as a bit more detailed and your story as a simple explanation of how your user might use the product. The test question will help you see if your product is doing what you want it to do. It's like making sure your toy works before you give it to your friend to play with it and have fun.",
+      "estimated_word_count": 164,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    },
+    {
+      "slide_number": 20,
+      "title": "Before building a feature, ask: whose goal does this serve, and what evidence supports it?",
+      "narration": "Before building a feature, it's important to think about whose goal this feature serves. Who is this feature supposed to help? What problem does it aim to solve? Think of it like planning a meal: you wouldn't just cook something because you like it, right? Instead, you'd consider what your guests or family might enjoy. In the same way, you should consider who your feature is for and what it should do for them. Then, you can look for evidence or examples that support your idea. This evidence could be from your users, from previous research, or any other reliable sources. It's important to have proof that your feature will help people, so you can make sure it's the right choice. This way, you can build a feature that truly meets the needs of your users.",
+      "estimated_word_count": 136,
+      "target_word_range": {
+        "min": 65,
+        "max": 150
+      },
+      "quality_score": 8,
+      "quality_feedback": "Content is technically consistent with the slide.",
+      "generation_attempt": 1
+    }
+  ]
+}

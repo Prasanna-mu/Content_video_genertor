@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from orchestrator import (
     SessionManager,
     PPTProcessor,
-    load_jobs_from_json,
+    discover_ppt_files,
     create_ppt_jobs,
     ChecklistManager,
     generate_content_for_session,
@@ -29,21 +29,18 @@ def main_test():
     session_manager.start_session(session_id)
     print("Session started.")
     
-    print("Loading jobs...")
-    jobs_data = load_jobs_from_json()
-    print(f"Jobs data: {jobs_data}")
-    if not jobs_data:
-        print("No jobs found.")
+    print("Discovering PPT files...")
+    ppt_filenames = discover_ppt_files()
+    print(f"PPT files: {ppt_filenames}")
+    if not ppt_filenames:
+        print("No PPT files found.")
         return
     
-    enabled_jobs = [j for j in jobs_data if j.get("enabled", True)]
-    print(f"Enabled jobs: {len(enabled_jobs)}")
-    
     # Update session counts
-    session_manager.update_session_counts(session_id, total=len(enabled_jobs))
+    session_manager.update_session_counts(session_id, total=len(ppt_filenames))
     
     # Create PPT job records
-    ppt_jobs = create_ppt_jobs(session_id, enabled_jobs)
+    ppt_jobs = create_ppt_jobs(session_id, ppt_filenames)
     print(f"Created {len(ppt_jobs)} PPT job records")
     
     # Create checklist

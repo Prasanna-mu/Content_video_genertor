@@ -1,0 +1,208 @@
+{
+  "ppt": {
+    "filename": "1st lsn topic 5.pptx",
+    "slide_count": 20
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "SUBTOPIC  •  USER PERSONAS AND STORIES\nIntermediate | CO: Understand and apply design-thinking principles",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 10
+    },
+    {
+      "slide_number": 2,
+      "title": "Personas describe who and context; stories describe desired progress and why it matters.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 3,
+      "title": "Intermediate practice means treating personas and stories as revisable hypotheses.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 4,
+      "title": "Build personas around meaningful differences in needs and behavior, not decorative detail.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 5,
+      "title": "Avoid turning one participant into a representative user group.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 6,
+      "title": "Demographics belong only when they inform a real design decision.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 7,
+      "title": "Treat Alex as a synthesis of a target group—not a verified individual without research.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 8,
+      "title": "A useful persona supports decisions while making uncertainty visible.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 9,
+      "title": "Stories are conversation starters and planning aids, not complete specifications.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 10,
+      "title": "Check each story with real users; feature requests can mask deeper needs.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 11,
+      "title": "Specificity improves testability without dictating the final solution.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 12,
+      "title": "Acceptance criteria clarify “done”; they should not replace user validation.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 13,
+      "title": "Ask open questions; protect privacy; record quotes separately from interpretation.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 14,
+      "title": "Do not promote a single note to a persona-wide truth without triangulation.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 15,
+      "title": "Prototype the smallest experience that can answer the riskiest question.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 16,
+      "title": "Test whether the promise resonates and whether the prototype delivers the outcome.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 17,
+      "title": "Stories define the progress to support; they do not prescribe only one concept.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 18,
+      "title": "Map dependencies and feedback loops before optimizing one user’s screen.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 19,
+      "title": "Deliverable: one revised persona insight, one story, and one test question.",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 20,
+      "title": "Before building a feature, ask: whose goal does this serve, and what evidence supports it?",
+      "text_boxes": [],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    }
+  ]
+}
