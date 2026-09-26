@@ -95,12 +95,13 @@ class VideoRenderer:
                     logger.warning(f"[{self.session_id}] Slide image not available or invalid for slide {slide.slide_number}")
                     continue
 
-                segment_path = self._create_video_segment(
-                    slide.image_path,
-                    audio_asset.file_path,
-                    audio_asset.duration,
-                    slide.slide_number
-                )
+segment_path = self._create_video_segment(
+                     slide.image_path,
+                     audio_asset.file_path,
+                     audio_asset.duration,
+                     slide.slide_number,
+                     job.id
+                 )
                 
                 if segment_path:
                     if self._validate_segment(segment_path):
@@ -176,9 +177,10 @@ class VideoRenderer:
         image_path: str,
         audio_path: str,
         duration: int,
-        slide_number: int
+        slide_number: int,
+        ppt_job_id: str
     ) -> Optional[str]:
-        segment_path = self.segments_dir / f"slide_{slide_number:03d}.mp4"
+        segment_path = self.segments_dir / f"{ppt_job_id}_slide_{slide_number:03d}.mp4"
 
         if segment_path.exists() and self._validate_segment(str(segment_path)):
             logger.info(f"[{self.session_id}] Segment already exists and valid: {segment_path}")
