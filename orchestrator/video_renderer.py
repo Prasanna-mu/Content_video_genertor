@@ -95,14 +95,14 @@ class VideoRenderer:
                     logger.warning(f"[{self.session_id}] Slide image not available or invalid for slide {slide.slide_number}")
                     continue
 
-segment_path = self._create_video_segment(
+                segment_path = self._create_video_segment(
                      slide.image_path,
                      audio_asset.file_path,
                      audio_asset.duration,
                      slide.slide_number,
                      job.id
                  )
-                
+                 
                 if segment_path:
                     if self._validate_segment(segment_path):
                         segment_files.append(segment_path)

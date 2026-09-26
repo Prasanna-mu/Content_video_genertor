@@ -1,0 +1,4770 @@
+{
+  "ppt": {
+    "filename": "1st lsn topic 5.pptx",
+    "slide_count": 20
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "title": "COURSE • MASTERING APPLIED DESIGN THINKING",
+      "text_boxes": [
+        {
+          "shape_id": 7,
+          "text": "COURSE • MASTERING APPLIED DESIGN THINKING",
+          "paragraphs": [
+            {
+              "text": "COURSE • MASTERING APPLIED DESIGN THINKING",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "COURSE • MASTERING APPLIED DESIGN THINKING",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 8,
+          "text": "See the person.\nTell the story.\nDesign for progress.",
+          "paragraphs": [
+            {
+              "text": "See the person.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "See the person.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            },
+            {
+              "text": "Tell the story.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Tell the story.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            },
+            {
+              "text": "Design for progress.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Design for progress.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "LESSON 01  /  INTRODUCTION TO DESIGN THINKING PRINCIPLES",
+          "paragraphs": [
+            {
+              "text": "LESSON 01  /  INTRODUCTION TO DESIGN THINKING PRINCIPLES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "LESSON 01  /  INTRODUCTION TO DESIGN THINKING PRINCIPLES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 11,
+          "text": "SUBTOPIC  •  USER PERSONAS AND STORIES\nIntermediate | CO: Understand and apply design-thinking principles",
+          "paragraphs": [
+            {
+              "text": "SUBTOPIC  •  USER PERSONAS AND STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "SUBTOPIC  •  USER PERSONAS AND STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            },
+            {
+              "text": "Intermediate | CO: Understand and apply design-thinking principles",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Intermediate | CO: Understand and apply design-thinking principles",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 10
+    },
+    {
+      "slide_number": 2,
+      "title": "01 / ORIENTATION",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "01 / ORIENTATION",
+          "paragraphs": [
+            {
+              "text": "01 / ORIENTATION",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "01 / ORIENTATION",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Personas and stories connect design to real needs",
+          "paragraphs": [
+            {
+              "text": "Personas and stories connect design to real needs",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Personas and stories connect design to real needs",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "02",
+          "paragraphs": [
+            {
+              "text": "02",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "02",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "COURSE OUTCOME",
+          "paragraphs": [
+            {
+              "text": "COURSE OUTCOME",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "COURSE OUTCOME",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Understand and apply design-thinking principles.",
+          "paragraphs": [
+            {
+              "text": "Understand and apply design-thinking principles.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Understand and apply design-thinking principles.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "PURPOSE",
+          "paragraphs": [
+            {
+              "text": "PURPOSE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "PURPOSE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Represent user patterns and express needs in a shared language.",
+          "paragraphs": [
+            {
+              "text": "Represent user patterns and express needs in a shared language.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Represent user patterns and express needs in a shared language.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "DESIGN LENS",
+          "paragraphs": [
+            {
+              "text": "DESIGN LENS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "DESIGN LENS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Keep every persona and story traceable to evidence.",
+          "paragraphs": [
+            {
+              "text": "Keep every persona and story traceable to evidence.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Keep every persona and story traceable to evidence.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 19,
+          "text": "Personas describe who and context; stories describe desired progress and why it matters.",
+          "paragraphs": [
+            {
+              "text": "Personas describe who and context; stories describe desired progress and why it matters.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Personas describe who and context; stories describe desired progress and why it matters.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 3,
+      "title": "01 / OUTCOMES",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "01 / OUTCOMES",
+          "paragraphs": [
+            {
+              "text": "01 / OUTCOMES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "01 / OUTCOMES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Learning outcomes: research to requirement",
+          "paragraphs": [
+            {
+              "text": "Learning outcomes: research to requirement",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Learning outcomes: research to requirement",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "03",
+          "paragraphs": [
+            {
+              "text": "03",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "03",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "SYNTHESIZE",
+          "paragraphs": [
+            {
+              "text": "SYNTHESIZE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "SYNTHESIZE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Build a persona from observed and reported patterns.",
+          "paragraphs": [
+            {
+              "text": "Build a persona from observed and reported patterns.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Build a persona from observed and reported patterns.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "ARTICULATE",
+          "paragraphs": [
+            {
+              "text": "ARTICULATE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "ARTICULATE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Write a user story with goal and benefit.",
+          "paragraphs": [
+            {
+              "text": "Write a user story with goal and benefit.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Write a user story with goal and benefit.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "VALIDATE",
+          "paragraphs": [
+            {
+              "text": "VALIDATE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "VALIDATE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Check assumptions through interviews and field visits.",
+          "paragraphs": [
+            {
+              "text": "Check assumptions through interviews and field visits.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Check assumptions through interviews and field visits.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "APPLY",
+          "paragraphs": [
+            {
+              "text": "APPLY",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "APPLY",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "Use stories to guide a MUP and value proposition.",
+          "paragraphs": [
+            {
+              "text": "Use stories to guide a MUP and value proposition.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Use stories to guide a MUP and value proposition.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Intermediate practice means treating personas and stories as revisable hypotheses.",
+          "paragraphs": [
+            {
+              "text": "Intermediate practice means treating personas and stories as revisable hypotheses.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Intermediate practice means treating personas and stories as revisable hypotheses.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 4,
+      "title": "02 / PERSONAS",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "02 / PERSONAS",
+          "paragraphs": [
+            {
+              "text": "02 / PERSONAS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "02 / PERSONAS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "What a persona is—and what it is not",
+          "paragraphs": [
+            {
+              "text": "What a persona is—and what it is not",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What a persona is—and what it is not",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "04",
+          "paragraphs": [
+            {
+              "text": "04",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "04",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "IS",
+          "paragraphs": [
+            {
+              "text": "IS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "IS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Evidence-based representation of a meaningful user group.",
+          "paragraphs": [
+            {
+              "text": "Evidence-based representation of a meaningful user group.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Evidence-based representation of a meaningful user group.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "INCLUDES",
+          "paragraphs": [
+            {
+              "text": "INCLUDES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "INCLUDES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Context, goals, behaviors, needs, constraints.",
+          "paragraphs": [
+            {
+              "text": "Context, goals, behaviors, needs, constraints.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Context, goals, behaviors, needs, constraints.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "IS NOT",
+          "paragraphs": [
+            {
+              "text": "IS NOT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "IS NOT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "A fictional biography or stereotype.",
+          "paragraphs": [
+            {
+              "text": "A fictional biography or stereotype.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "A fictional biography or stereotype.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 19,
+          "text": "Build personas around meaningful differences in needs and behavior, not decorative detail.",
+          "paragraphs": [
+            {
+              "text": "Build personas around meaningful differences in needs and behavior, not decorative detail.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Build personas around meaningful differences in needs and behavior, not decorative detail.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 5,
+      "title": "02 / EVIDENCE",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "02 / EVIDENCE",
+          "paragraphs": [
+            {
+              "text": "02 / EVIDENCE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "02 / EVIDENCE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Research before you write the persona",
+          "paragraphs": [
+            {
+              "text": "Research before you write the persona",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Research before you write the persona",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "05",
+          "paragraphs": [
+            {
+              "text": "05",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "05",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "INTERVIEWS",
+          "paragraphs": [
+            {
+              "text": "INTERVIEWS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "INTERVIEWS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Hear stories about real recent experiences.",
+          "paragraphs": [
+            {
+              "text": "Hear stories about real recent experiences.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Hear stories about real recent experiences.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "FIELD VISITS",
+          "paragraphs": [
+            {
+              "text": "FIELD VISITS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "FIELD VISITS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Observe tools, workarounds, interruptions, handoffs.",
+          "paragraphs": [
+            {
+              "text": "Observe tools, workarounds, interruptions, handoffs.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Observe tools, workarounds, interruptions, handoffs.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "SYNTHESIS",
+          "paragraphs": [
+            {
+              "text": "SYNTHESIS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "SYNTHESIS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Cluster patterns across participants and sources.",
+          "paragraphs": [
+            {
+              "text": "Cluster patterns across participants and sources.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Cluster patterns across participants and sources.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "TRACE",
+          "paragraphs": [
+            {
+              "text": "TRACE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "TRACE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "Record evidence and confidence behind each claim.",
+          "paragraphs": [
+            {
+              "text": "Record evidence and confidence behind each claim.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Record evidence and confidence behind each claim.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Avoid turning one participant into a representative user group.",
+          "paragraphs": [
+            {
+              "text": "Avoid turning one participant into a representative user group.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Avoid turning one participant into a representative user group.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 6,
+      "title": "02 / PERSONA CRAFT",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "02 / PERSONA CRAFT",
+          "paragraphs": [
+            {
+              "text": "02 / PERSONA CRAFT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "02 / PERSONA CRAFT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Persona anatomy: context before demographics",
+          "paragraphs": [
+            {
+              "text": "Persona anatomy: context before demographics",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Persona anatomy: context before demographics",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "06",
+          "paragraphs": [
+            {
+              "text": "06",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "06",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "CONTEXT",
+          "paragraphs": [
+            {
+              "text": "CONTEXT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "CONTEXT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "When and where does the need occur?",
+          "paragraphs": [
+            {
+              "text": "When and where does the need occur?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "When and where does the need occur?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "GOALS",
+          "paragraphs": [
+            {
+              "text": "GOALS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "GOALS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "What progress is the person trying to make?",
+          "paragraphs": [
+            {
+              "text": "What progress is the person trying to make?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What progress is the person trying to make?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "BEHAVIORS",
+          "paragraphs": [
+            {
+              "text": "BEHAVIORS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "BEHAVIORS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "What do they currently do or avoid?",
+          "paragraphs": [
+            {
+              "text": "What do they currently do or avoid?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What do they currently do or avoid?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "FRICTIONS",
+          "paragraphs": [
+            {
+              "text": "FRICTIONS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "FRICTIONS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "What constraints or unmet needs recur?",
+          "paragraphs": [
+            {
+              "text": "What constraints or unmet needs recur?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What constraints or unmet needs recur?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Demographics belong only when they inform a real design decision.",
+          "paragraphs": [
+            {
+              "text": "Demographics belong only when they inform a real design decision.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Demographics belong only when they inform a real design decision.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 7,
+      "title": "03 / WORKED EXAMPLE",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "03 / WORKED EXAMPLE",
+          "paragraphs": [
+            {
+              "text": "03 / WORKED EXAMPLE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "03 / WORKED EXAMPLE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Example persona: Alex, marketing manager",
+          "paragraphs": [
+            {
+              "text": "Example persona: Alex, marketing manager",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Example persona: Alex, marketing manager",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "07",
+          "paragraphs": [
+            {
+              "text": "07",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "07",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "ROLE / CONTEXT",
+          "paragraphs": [
+            {
+              "text": "ROLE / CONTEXT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "ROLE / CONTEXT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Marketing manager selling digital products; coordinates campaigns across channels.",
+          "paragraphs": [
+            {
+              "text": "Marketing manager selling digital products; coordinates campaigns across channels.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Marketing manager selling digital products; coordinates campaigns across channels.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "GOALS",
+          "paragraphs": [
+            {
+              "text": "GOALS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "GOALS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Streamline operations and improve customer engagement.",
+          "paragraphs": [
+            {
+              "text": "Streamline operations and improve customer engagement.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Streamline operations and improve customer engagement.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "FRICTIONS",
+          "paragraphs": [
+            {
+              "text": "FRICTIONS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "FRICTIONS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Manual scheduling; fragmented performance view; limited planning time.",
+          "paragraphs": [
+            {
+              "text": "Manual scheduling; fragmented performance view; limited planning time.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Manual scheduling; fragmented performance view; limited planning time.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 19,
+          "text": "Treat Alex as a synthesis of a target group—not a verified individual without research.",
+          "paragraphs": [
+            {
+              "text": "Treat Alex as a synthesis of a target group—not a verified individual without research.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Treat Alex as a synthesis of a target group—not a verified individual without research.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 8,
+      "title": "03 / QUALITY",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "03 / QUALITY",
+          "paragraphs": [
+            {
+              "text": "03 / QUALITY",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "03 / QUALITY",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Avoid persona traps: stereotypes and false precision",
+          "paragraphs": [
+            {
+              "text": "Avoid persona traps: stereotypes and false precision",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Avoid persona traps: stereotypes and false precision",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "08",
+          "paragraphs": [
+            {
+              "text": "08",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "08",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "NO ASSUMPTION",
+          "paragraphs": [
+            {
+              "text": "NO ASSUMPTION",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "NO ASSUMPTION",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Do not invent preferences from age, job, or location.",
+          "paragraphs": [
+            {
+              "text": "Do not invent preferences from age, job, or location.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Do not invent preferences from age, job, or location.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "SHOW RANGE",
+          "paragraphs": [
+            {
+              "text": "SHOW RANGE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "SHOW RANGE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Capture meaningful variation inside the group.",
+          "paragraphs": [
+            {
+              "text": "Capture meaningful variation inside the group.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Capture meaningful variation inside the group.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "LABEL UNCERTAINTY",
+          "paragraphs": [
+            {
+              "text": "LABEL UNCERTAINTY",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "LABEL UNCERTAINTY",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Separate evidence, inference, and open questions.",
+          "paragraphs": [
+            {
+              "text": "Separate evidence, inference, and open questions.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Separate evidence, inference, and open questions.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 19,
+          "text": "A useful persona supports decisions while making uncertainty visible.",
+          "paragraphs": [
+            {
+              "text": "A useful persona supports decisions while making uncertainty visible.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "A useful persona supports decisions while making uncertainty visible.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 9,
+      "title": "04 / USER STORIES",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "04 / USER STORIES",
+          "paragraphs": [
+            {
+              "text": "04 / USER STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "04 / USER STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "User stories: capture progress in one sentence",
+          "paragraphs": [
+            {
+              "text": "User stories: capture progress in one sentence",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "User stories: capture progress in one sentence",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "09",
+          "paragraphs": [
+            {
+              "text": "09",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "09",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "TEMPLATE",
+          "paragraphs": [
+            {
+              "text": "TEMPLATE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "TEMPLATE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "As a [user/context], I want [goal], so that [benefit].",
+          "paragraphs": [
+            {
+              "text": "As a [user/context], I want [goal], so that [benefit].",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "As a [user/context], I want [goal], so that [benefit].",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "USER",
+          "paragraphs": [
+            {
+              "text": "USER",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "USER",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Whose perspective and situation?",
+          "paragraphs": [
+            {
+              "text": "Whose perspective and situation?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Whose perspective and situation?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "GOAL",
+          "paragraphs": [
+            {
+              "text": "GOAL",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "GOAL",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "What progress do they want—not a feature list?",
+          "paragraphs": [
+            {
+              "text": "What progress do they want—not a feature list?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What progress do they want—not a feature list?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "BENEFIT",
+          "paragraphs": [
+            {
+              "text": "BENEFIT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "BENEFIT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "Why does that outcome matter?",
+          "paragraphs": [
+            {
+              "text": "Why does that outcome matter?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Why does that outcome matter?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Stories are conversation starters and planning aids, not complete specifications.",
+          "paragraphs": [
+            {
+              "text": "Stories are conversation starters and planning aids, not complete specifications.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Stories are conversation starters and planning aids, not complete specifications.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 10,
+      "title": "04 / EXAMPLES",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "04 / EXAMPLES",
+          "paragraphs": [
+            {
+              "text": "04 / EXAMPLES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "04 / EXAMPLES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Alex stories: from task to value",
+          "paragraphs": [
+            {
+              "text": "Alex stories: from task to value",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Alex stories: from task to value",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "10",
+          "paragraphs": [
+            {
+              "text": "10",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "10",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "PERFORMANCE",
+          "paragraphs": [
+            {
+              "text": "PERFORMANCE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "PERFORMANCE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "As a marketing manager, I want to compare campaign performance across channels so I can decide where to invest.",
+          "paragraphs": [
+            {
+              "text": "As a marketing manager, I want to compare campaign performance across channels so I can decide where to invest.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "As a marketing manager, I want to compare campaign performance across channels so I can decide where to invest.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "SCHEDULING",
+          "paragraphs": [
+            {
+              "text": "SCHEDULING",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "SCHEDULING",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "As a campaign owner, I want to schedule launches in advance so I can protect time for strategy.",
+          "paragraphs": [
+            {
+              "text": "As a campaign owner, I want to schedule launches in advance so I can protect time for strategy.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "As a campaign owner, I want to schedule launches in advance so I can protect time for strategy.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "STATUS",
+          "paragraphs": [
+            {
+              "text": "STATUS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "STATUS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "As a manager, I want to notice campaign status changes so I can act when needed.",
+          "paragraphs": [
+            {
+              "text": "As a manager, I want to notice campaign status changes so I can act when needed.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "As a manager, I want to notice campaign status changes so I can act when needed.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 19,
+          "text": "Check each story with real users; feature requests can mask deeper needs.",
+          "paragraphs": [
+            {
+              "text": "Check each story with real users; feature requests can mask deeper needs.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Check each story with real users; feature requests can mask deeper needs.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 11,
+      "title": "04 / REFINEMENT",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "04 / REFINEMENT",
+          "paragraphs": [
+            {
+              "text": "04 / REFINEMENT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "04 / REFINEMENT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Improve a story: make goal and context specific",
+          "paragraphs": [
+            {
+              "text": "Improve a story: make goal and context specific",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Improve a story: make goal and context specific",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "11",
+          "paragraphs": [
+            {
+              "text": "11",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "11",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "VAGUE",
+          "paragraphs": [
+            {
+              "text": "VAGUE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "VAGUE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "As a user, I want analytics so I can do better.",
+          "paragraphs": [
+            {
+              "text": "As a user, I want analytics so I can do better.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "As a user, I want analytics so I can do better.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "CLEARER",
+          "paragraphs": [
+            {
+              "text": "CLEARER",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "CLEARER",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "As a marketing manager reviewing campaigns each morning, I want a current cross-channel view so I can spot underperforming spend.",
+          "paragraphs": [
+            {
+              "text": "As a marketing manager reviewing campaigns each morning, I want a current cross-channel view so I can spot underperforming spend.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "As a marketing manager reviewing campaigns each morning, I want a current cross-channel view so I can spot underperforming spend.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "QUESTION",
+          "paragraphs": [
+            {
+              "text": "QUESTION",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "QUESTION",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "What counts as current? Which decision follows?",
+          "paragraphs": [
+            {
+              "text": "What counts as current? Which decision follows?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What counts as current? Which decision follows?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 19,
+          "text": "Specificity improves testability without dictating the final solution.",
+          "paragraphs": [
+            {
+              "text": "Specificity improves testability without dictating the final solution.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Specificity improves testability without dictating the final solution.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 12,
+      "title": "05 / STORY QUALITY",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "05 / STORY QUALITY",
+          "paragraphs": [
+            {
+              "text": "05 / STORY QUALITY",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "05 / STORY QUALITY",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Acceptance criteria make stories testable",
+          "paragraphs": [
+            {
+              "text": "Acceptance criteria make stories testable",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Acceptance criteria make stories testable",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "12",
+          "paragraphs": [
+            {
+              "text": "12",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "12",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "TASK",
+          "paragraphs": [
+            {
+              "text": "TASK",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "TASK",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "What should the user be able to accomplish?",
+          "paragraphs": [
+            {
+              "text": "What should the user be able to accomplish?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What should the user be able to accomplish?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "OUTCOME",
+          "paragraphs": [
+            {
+              "text": "OUTCOME",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "OUTCOME",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "What observable result indicates success?",
+          "paragraphs": [
+            {
+              "text": "What observable result indicates success?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What observable result indicates success?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "BOUNDARIES",
+          "paragraphs": [
+            {
+              "text": "BOUNDARIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "BOUNDARIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "What edge case or accessibility need matters?",
+          "paragraphs": [
+            {
+              "text": "What edge case or accessibility need matters?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "What edge case or accessibility need matters?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "EVIDENCE",
+          "paragraphs": [
+            {
+              "text": "EVIDENCE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "EVIDENCE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "How will we verify the behavior with users?",
+          "paragraphs": [
+            {
+              "text": "How will we verify the behavior with users?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "How will we verify the behavior with users?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Acceptance criteria clarify “done”; they should not replace user validation.",
+          "paragraphs": [
+            {
+              "text": "Acceptance criteria clarify “done”; they should not replace user validation.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Acceptance criteria clarify “done”; they should not replace user validation.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 13,
+      "title": "06 / ACTIVITY",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "06 / ACTIVITY",
+          "paragraphs": [
+            {
+              "text": "06 / ACTIVITY",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "06 / ACTIVITY",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Activity: customer development interviews",
+          "paragraphs": [
+            {
+              "text": "Activity: customer development interviews",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Activity: customer development interviews",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "13",
+          "paragraphs": [
+            {
+              "text": "13",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "13",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "PLAN",
+          "paragraphs": [
+            {
+              "text": "PLAN",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "PLAN",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Recruit relevant users; ask about recent campaign work.",
+          "paragraphs": [
+            {
+              "text": "Recruit relevant users; ask about recent campaign work.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Recruit relevant users; ask about recent campaign work.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "INTERVIEW",
+          "paragraphs": [
+            {
+              "text": "INTERVIEW",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "INTERVIEW",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Explore how performance is checked and scheduling is handled.",
+          "paragraphs": [
+            {
+              "text": "Explore how performance is checked and scheduling is handled.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Explore how performance is checked and scheduling is handled.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "FIELD VISIT",
+          "paragraphs": [
+            {
+              "text": "FIELD VISIT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "FIELD VISIT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Observe dashboard use, tools, interruptions, workarounds.",
+          "paragraphs": [
+            {
+              "text": "Observe dashboard use, tools, interruptions, workarounds.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Observe dashboard use, tools, interruptions, workarounds.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "SYNTHESIZE",
+          "paragraphs": [
+            {
+              "text": "SYNTHESIZE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "SYNTHESIZE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "Update persona evidence and draft stories.",
+          "paragraphs": [
+            {
+              "text": "Update persona evidence and draft stories.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Update persona evidence and draft stories.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Ask open questions; protect privacy; record quotes separately from interpretation.",
+          "paragraphs": [
+            {
+              "text": "Ask open questions; protect privacy; record quotes separately from interpretation.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Ask open questions; protect privacy; record quotes separately from interpretation.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 14,
+      "title": "06 / SYNTHESIS",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "06 / SYNTHESIS",
+          "paragraphs": [
+            {
+              "text": "06 / SYNTHESIS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "06 / SYNTHESIS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Turn interview notes into persona evidence",
+          "paragraphs": [
+            {
+              "text": "Turn interview notes into persona evidence",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Turn interview notes into persona evidence",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "14",
+          "paragraphs": [
+            {
+              "text": "14",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "14",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "OBSERVATION",
+          "paragraphs": [
+            {
+              "text": "OBSERVATION",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "OBSERVATION",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Alex checks the dashboard each morning.",
+          "paragraphs": [
+            {
+              "text": "Alex checks the dashboard each morning.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Alex checks the dashboard each morning.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "FRICTION",
+          "paragraphs": [
+            {
+              "text": "FRICTION",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "FRICTION",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Manual scheduling consumes time; deadlines are missed.",
+          "paragraphs": [
+            {
+              "text": "Manual scheduling consumes time; deadlines are missed.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Manual scheduling consumes time; deadlines are missed.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "IMPACT",
+          "paragraphs": [
+            {
+              "text": "IMPACT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "IMPACT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Less time remains for strategic planning.",
+          "paragraphs": [
+            {
+              "text": "Less time remains for strategic planning.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Less time remains for strategic planning.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "FOLLOW-UP",
+          "paragraphs": [
+            {
+              "text": "FOLLOW-UP",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "FOLLOW-UP",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "How often? Which campaigns? What current workarounds?",
+          "paragraphs": [
+            {
+              "text": "How often? Which campaigns? What current workarounds?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "How often? Which campaigns? What current workarounds?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Do not promote a single note to a persona-wide truth without triangulation.",
+          "paragraphs": [
+            {
+              "text": "Do not promote a single note to a persona-wide truth without triangulation.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Do not promote a single note to a persona-wide truth without triangulation.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 15,
+      "title": "07 / APPLIED TOOLS",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "07 / APPLIED TOOLS",
+          "paragraphs": [
+            {
+              "text": "07 / APPLIED TOOLS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "07 / APPLIED TOOLS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Map a story to a Minimum Usable Prototype",
+          "paragraphs": [
+            {
+              "text": "Map a story to a Minimum Usable Prototype",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Map a story to a Minimum Usable Prototype",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "15",
+          "paragraphs": [
+            {
+              "text": "15",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "15",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "USER STORY",
+          "paragraphs": [
+            {
+              "text": "USER STORY",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "USER STORY",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "“I want a current view to make timely campaign decisions.”",
+          "paragraphs": [
+            {
+              "text": "“I want a current view to make timely campaign decisions.”",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "“I want a current view to make timely campaign decisions.”",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "MUP",
+          "paragraphs": [
+            {
+              "text": "MUP",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MUP",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Low-fidelity dashboard with a few campaign metrics.",
+          "paragraphs": [
+            {
+              "text": "Low-fidelity dashboard with a few campaign metrics.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Low-fidelity dashboard with a few campaign metrics.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "TEST TASK",
+          "paragraphs": [
+            {
+              "text": "TEST TASK",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "TEST TASK",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Ask a marketer to identify a campaign needing attention.",
+          "paragraphs": [
+            {
+              "text": "Ask a marketer to identify a campaign needing attention.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Ask a marketer to identify a campaign needing attention.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "LEARN",
+          "paragraphs": [
+            {
+              "text": "LEARN",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "LEARN",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "Observe comprehension, decision confidence, missing context.",
+          "paragraphs": [
+            {
+              "text": "Observe comprehension, decision confidence, missing context.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Observe comprehension, decision confidence, missing context.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Prototype the smallest experience that can answer the riskiest question.",
+          "paragraphs": [
+            {
+              "text": "Prototype the smallest experience that can answer the riskiest question.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Prototype the smallest experience that can answer the riskiest question.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 16,
+      "title": "07 / VALUE PROPOSITION",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "07 / VALUE PROPOSITION",
+          "paragraphs": [
+            {
+              "text": "07 / VALUE PROPOSITION",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "07 / VALUE PROPOSITION",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Value proposition: connect user, need, outcome",
+          "paragraphs": [
+            {
+              "text": "Value proposition: connect user, need, outcome",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Value proposition: connect user, need, outcome",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "16",
+          "paragraphs": [
+            {
+              "text": "16",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "16",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "TARGET",
+          "paragraphs": [
+            {
+              "text": "TARGET",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "TARGET",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Marketing managers coordinating digital campaigns.",
+          "paragraphs": [
+            {
+              "text": "Marketing managers coordinating digital campaigns.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Marketing managers coordinating digital campaigns.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "PROBLEM",
+          "paragraphs": [
+            {
+              "text": "PROBLEM",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "PROBLEM",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Manual scheduling and fragmented tracking consume time.",
+          "paragraphs": [
+            {
+              "text": "Manual scheduling and fragmented tracking consume time.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Manual scheduling and fragmented tracking consume time.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "PROMISE",
+          "paragraphs": [
+            {
+              "text": "PROMISE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "PROMISE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "See campaign performance and status to make timely decisions.",
+          "paragraphs": [
+            {
+              "text": "See campaign performance and status to make timely decisions.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "See campaign performance and status to make timely decisions.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 19,
+          "text": "Test whether the promise resonates and whether the prototype delivers the outcome.",
+          "paragraphs": [
+            {
+              "text": "Test whether the promise resonates and whether the prototype delivers the outcome.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Test whether the promise resonates and whether the prototype delivers the outcome.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 18
+    },
+    {
+      "slide_number": 17,
+      "title": "08 / CONCEPT GENERATION",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "08 / CONCEPT GENERATION",
+          "paragraphs": [
+            {
+              "text": "08 / CONCEPT GENERATION",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "08 / CONCEPT GENERATION",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Concept generation: explore beyond the first idea",
+          "paragraphs": [
+            {
+              "text": "Concept generation: explore beyond the first idea",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Concept generation: explore beyond the first idea",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "17",
+          "paragraphs": [
+            {
+              "text": "17",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "17",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "CONCEPT A",
+          "paragraphs": [
+            {
+              "text": "CONCEPT A",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "CONCEPT A",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Unified performance overview.",
+          "paragraphs": [
+            {
+              "text": "Unified performance overview.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Unified performance overview.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "CONCEPT B",
+          "paragraphs": [
+            {
+              "text": "CONCEPT B",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "CONCEPT B",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Scheduling workflow with deadline cues.",
+          "paragraphs": [
+            {
+              "text": "Scheduling workflow with deadline cues.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Scheduling workflow with deadline cues.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "CONCEPT C",
+          "paragraphs": [
+            {
+              "text": "CONCEPT C",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "CONCEPT C",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Status alerts tuned to user-selected events.",
+          "paragraphs": [
+            {
+              "text": "Status alerts tuned to user-selected events.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Status alerts tuned to user-selected events.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "COMPARE",
+          "paragraphs": [
+            {
+              "text": "COMPARE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "COMPARE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "User value, evidence, feasibility, trade-offs.",
+          "paragraphs": [
+            {
+              "text": "User value, evidence, feasibility, trade-offs.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "User value, evidence, feasibility, trade-offs.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Stories define the progress to support; they do not prescribe only one concept.",
+          "paragraphs": [
+            {
+              "text": "Stories define the progress to support; they do not prescribe only one concept.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Stories define the progress to support; they do not prescribe only one concept.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 18,
+      "title": "09 / SYSTEMS",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "09 / SYSTEMS",
+          "paragraphs": [
+            {
+              "text": "09 / SYSTEMS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "09 / SYSTEMS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Systems thinking: personas live in a system",
+          "paragraphs": [
+            {
+              "text": "Systems thinking: personas live in a system",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Systems thinking: personas live in a system",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "18",
+          "paragraphs": [
+            {
+              "text": "18",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "18",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "ACTORS",
+          "paragraphs": [
+            {
+              "text": "ACTORS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "ACTORS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Marketer, team, platform, customer, ad channels.",
+          "paragraphs": [
+            {
+              "text": "Marketer, team, platform, customer, ad channels.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Marketer, team, platform, customer, ad channels.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "FLOWS",
+          "paragraphs": [
+            {
+              "text": "FLOWS",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "FLOWS",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Campaign data, approvals, budgets, notifications.",
+          "paragraphs": [
+            {
+              "text": "Campaign data, approvals, budgets, notifications.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Campaign data, approvals, budgets, notifications.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "FEEDBACK",
+          "paragraphs": [
+            {
+              "text": "FEEDBACK",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "FEEDBACK",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Performance informs spend; delayed delivery may erode trust.",
+          "paragraphs": [
+            {
+              "text": "Performance informs spend; delayed delivery may erode trust.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Performance informs spend; delayed delivery may erode trust.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "BOUNDARY",
+          "paragraphs": [
+            {
+              "text": "BOUNDARY",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "BOUNDARY",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "Which parts can the design influence?",
+          "paragraphs": [
+            {
+              "text": "Which parts can the design influence?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Which parts can the design influence?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Map dependencies and feedback loops before optimizing one user’s screen.",
+          "paragraphs": [
+            {
+              "text": "Map dependencies and feedback loops before optimizing one user’s screen.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Map dependencies and feedback loops before optimizing one user’s screen.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 19,
+      "title": "10 / PRACTICE",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "10 / PRACTICE",
+          "paragraphs": [
+            {
+              "text": "10 / PRACTICE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "10 / PRACTICE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Persona and story review: a team exercise",
+          "paragraphs": [
+            {
+              "text": "Persona and story review: a team exercise",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Persona and story review: a team exercise",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "19",
+          "paragraphs": [
+            {
+              "text": "19",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "19",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "PAIR",
+          "paragraphs": [
+            {
+              "text": "PAIR",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "PAIR",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Review a persona and find claims without evidence.",
+          "paragraphs": [
+            {
+              "text": "Review a persona and find claims without evidence.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Review a persona and find claims without evidence.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "REWRITE",
+          "paragraphs": [
+            {
+              "text": "REWRITE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "REWRITE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Choose one story; make its goal and benefit testable.",
+          "paragraphs": [
+            {
+              "text": "Choose one story; make its goal and benefit testable.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Choose one story; make its goal and benefit testable.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "TRACE",
+          "paragraphs": [
+            {
+              "text": "TRACE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "TRACE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Link each part to an interview or observation.",
+          "paragraphs": [
+            {
+              "text": "Link each part to an interview or observation.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Link each part to an interview or observation.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "NEXT",
+          "paragraphs": [
+            {
+              "text": "NEXT",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "NEXT",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "Name what still needs user validation.",
+          "paragraphs": [
+            {
+              "text": "Name what still needs user validation.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Name what still needs user validation.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Deliverable: one revised persona insight, one story, and one test question.",
+          "paragraphs": [
+            {
+              "text": "Deliverable: one revised persona insight, one story, and one test question.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Deliverable: one revised persona insight, one story, and one test question.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    },
+    {
+      "slide_number": 20,
+      "title": "11 / TAKEAWAY",
+      "text_boxes": [
+        {
+          "shape_id": 2,
+          "text": "11 / TAKEAWAY",
+          "paragraphs": [
+            {
+              "text": "11 / TAKEAWAY",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "11 / TAKEAWAY",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 3,
+          "text": "Close: keep the person visible",
+          "paragraphs": [
+            {
+              "text": "Close: keep the person visible",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Close: keep the person visible",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 5,
+          "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+          "paragraphs": [
+            {
+              "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "MASTERING APPLIED DESIGN THINKING  •  LESSON 01 / PERSONAS & STORIES",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 6,
+          "text": "20",
+          "paragraphs": [
+            {
+              "text": "20",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "20",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 9,
+          "text": "RESEARCH",
+          "paragraphs": [
+            {
+              "text": "RESEARCH",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "RESEARCH",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 10,
+          "text": "Ground representations in real users.",
+          "paragraphs": [
+            {
+              "text": "Ground representations in real users.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Ground representations in real users.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 13,
+          "text": "SYNTHESIZE",
+          "paragraphs": [
+            {
+              "text": "SYNTHESIZE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "SYNTHESIZE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 14,
+          "text": "Show patterns, context, and uncertainty.",
+          "paragraphs": [
+            {
+              "text": "Show patterns, context, and uncertainty.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Show patterns, context, and uncertainty.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 17,
+          "text": "COMMUNICATE",
+          "paragraphs": [
+            {
+              "text": "COMMUNICATE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "COMMUNICATE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 18,
+          "text": "Use stories to express progress and value.",
+          "paragraphs": [
+            {
+              "text": "Use stories to express progress and value.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Use stories to express progress and value.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 21,
+          "text": "ITERATE",
+          "paragraphs": [
+            {
+              "text": "ITERATE",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "ITERATE",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 22,
+          "text": "Update personas and stories as evidence changes.",
+          "paragraphs": [
+            {
+              "text": "Update personas and stories as evidence changes.",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Update personas and stories as evidence changes.",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape_id": 23,
+          "text": "Before building a feature, ask: whose goal does this serve, and what evidence supports it?",
+          "paragraphs": [
+            {
+              "text": "Before building a feature, ask: whose goal does this serve, and what evidence supports it?",
+              "level": 0,
+              "runs": [
+                {
+                  "text": "Before building a feature, ask: whose goal does this serve, and what evidence supports it?",
+                  "bold": null,
+                  "italic": null,
+                  "font_size": null,
+                  "font_name": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bullet_points": [],
+      "notes": "",
+      "tables": [],
+      "images": [],
+      "shapes_count": 22
+    }
+  ]
+}

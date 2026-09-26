@@ -5,6 +5,7 @@ from typing import Optional, List, Dict, Any
 from pptx import Presentation
 from pptx.oxml.ns import qn
 from pptx.util import Inches, Emu
+from pptx.enum.shapes import MSO_SHAPE_TYPE
 import json
 
 from models.database import SessionLocal
@@ -38,6 +39,15 @@ class PPTProcessor:
         ppt_path = settings.INPUT_PPT_DIR / job.ppt_filename
         if not ppt_path.exists():
             error_msg = f"PPT file not found: {ppt_path}"
+            logger.error(f"[{self.session_id}] {error_msg}")
+            job.status = PPTJobStatus.FAILED
+            job.error = error_msg
+            job.completed_at = datetime.utcnow()
+            self.db.commit()
+            return False
+
+        if ppt_path.suffix.lower() == ".ppt":
+            error_msg = f"Legacy .ppt format not supported. Please convert {ppt_path.name} to .pptx format."
             logger.error(f"[{self.session_id}] {error_msg}")
             job.status = PPTJobStatus.FAILED
             job.error = error_msg
@@ -101,17 +111,7 @@ class PPTProcessor:
                 "shape_type": str(shape.shape_type),
             }
 
-            if shape.has_text_frame:
-                text_content = self._extract_text_frame(shape.text_frame)
-                if text_content:
-                    if self._is_title_shape(shape, slide):
-                        title = text_content
-                    else:
-                        text_boxes.append({
-                            "shape_id": shape.shape_id,
-                            "text": text_content,
-                            "paragraphs": self._extract_paragraphs(shape.text_frame),
-                        })
+            title = self._process_shape_for_text(shape, slide, text_boxes, title)
 
             if shape.has_table:
                 table_data = self._extract_table(shape.table)
@@ -132,6 +132,9 @@ class PPTProcessor:
         if slide.has_notes_slide:
             notes = self._extract_notes(slide.notes_slide)
 
+        if not title:
+            title = self._infer_title_from_text_boxes(text_boxes)
+
         bullet_points = self._extract_bullets(text_boxes)
 
         return {
@@ -144,6 +147,84 @@ class PPTProcessor:
             "images": images,
             "shapes_count": len(shapes),
         }
+
+    def _process_shape_for_text(self, shape, slide, text_boxes: List[Dict], title: str) -> str:
+        if shape.shape_type == MSO_SHAPE_TYPE.GROUP:
+            for sub_shape in shape.shapes:
+                title = self._process_shape_for_text(sub_shape, slide, text_boxes, title)
+            return title
+
+        if shape.shape_type == MSO_SHAPE_TYPE.DIAGRAM:
+            smart_art_text = self._extract_smart_art_text(shape)
+            if smart_art_text:
+                if self._is_title_shape(shape, slide):
+                    return smart_art_text
+                else:
+                    text_boxes.append({
+                        "shape_id": shape.shape_id,
+                        "text": smart_art_text,
+                        "paragraphs": [{"text": smart_art_text, "level": 0, "runs": []}],
+                    })
+            return title
+
+        if not shape.has_text_frame:
+            return title
+
+        text_content = self._extract_text_frame(shape.text_frame)
+        if not text_content:
+            return title
+
+        if self._is_title_shape(shape, slide):
+            return text_content
+        else:
+            text_boxes.append({
+                "shape_id": shape.shape_id,
+                "text": text_content,
+                "paragraphs": self._extract_paragraphs(shape.text_frame),
+            })
+            return title
+
+    def _extract_smart_art_text(self, shape) -> str:
+        try:
+            if not hasattr(shape, "element"):
+                return ""
+            graphic_data = shape.element.find(qn("a:graphicData"))
+            if graphic_data is None:
+                return ""
+            text_parts = []
+            for node in graphic_data.findall(".//" + qn("a:t")):
+                if node.text:
+                    text_parts.append(node.text)
+            return "\n".join(text_parts)
+        except Exception:
+            return ""
+
+    def _is_title_shape(self, shape, slide) -> bool:
+        try:
+            if hasattr(shape, 'placeholder_format'):
+                pf = shape.placeholder_format
+                if pf.type == 1:
+                    return True
+        except Exception:
+            pass
+
+        if hasattr(slide.shapes, 'title') and slide.shapes.title is not None:
+            try:
+                if slide.shapes.title.shape_id == shape.shape_id:
+                    return True
+            except Exception:
+                pass
+
+        return False
+
+    def _infer_title_from_text_boxes(self, text_boxes: List[Dict]) -> str:
+        if not text_boxes:
+            return ""
+        first_box = text_boxes[0]
+        lines = first_box.get("text", "").split("\n")
+        if lines:
+            return lines[0]
+        return ""
 
     def _extract_text_frame(self, text_frame) -> str:
         paragraphs = []
@@ -172,25 +253,23 @@ class PPTProcessor:
             })
         return paragraphs
 
-    def _is_title_shape(self, shape, slide) -> bool:
-        if shape.shape_type == 17:
-            return True
-        if hasattr(shape, 'placeholder_format') and shape.placeholder_format is not None:
-            try:
-                if shape.placeholder_format.type == 1:
-                    return True
-            except Exception:
-                pass
-        if hasattr(slide, 'shapes') and hasattr(slide.shapes, 'title') and slide.shapes.title == shape:
-            return True
-        return False
-
     def _extract_bullets(self, text_boxes: List[Dict]) -> List[str]:
         bullets = []
         for box in text_boxes:
             for para in box.get("paragraphs", []):
-                if para.get("level", 0) > 0 or para.get("text", "").startswith(("•", "-", "*", "→", "▸")):
-                    bullets.append(para["text"])
+                text = para.get("text", "").strip()
+                if not text:
+                    continue
+                if para.get("level", 0) > 0:
+                    bullets.append(text)
+                elif text.startswith(("•", "-", "*", "→", "▸", "–", "—", "●", "○", "■", "□")):
+                    bullets.append(text.lstrip("•-*→▸–—●○■□ ").strip())
+                elif len(text) > 0 and text[0].isdigit() and len(text) > 2 and text[1] in (".", ")", ":"):
+                    bullets.append(text)
+                elif any(run.get("bold") for run in para.get("runs", []) if run.get("text", "").strip()):
+                    first_run_text = next((r["text"] for r in para.get("runs", []) if r.get("text", "").strip()), "")
+                    if first_run_text and len(first_run_text) < 50:
+                        bullets.append(text)
         return bullets
 
     def _extract_table(self, table) -> Dict[str, Any]:
@@ -207,7 +286,7 @@ class PPTProcessor:
         }
 
     def _is_image_shape(self, shape) -> bool:
-        return shape.shape_type == 13 or (
+        return shape.shape_type == MSO_SHAPE_TYPE.PICTURE or (
             hasattr(shape, "image") and shape.image is not None
         )
 
@@ -264,10 +343,10 @@ class PPTProcessor:
 def discover_ppt_files() -> List[str]:
     ppt_dir = settings.INPUT_PPT_DIR
     ensure_dir(ppt_dir)
-    
+
     pptx_files = list(ppt_dir.glob("*.pptx"))
     pptx_files += list(ppt_dir.glob("*.ppt"))
-    
+
     filenames = [f.name for f in pptx_files]
     logger.info(f"Discovered {len(filenames)} PPT file(s) in {ppt_dir}: {filenames}")
     return filenames
@@ -278,14 +357,11 @@ def create_ppt_jobs(session_id: str, ppt_filenames: List[str]) -> List[PPTJob]:
     created_jobs = []
 
     for filename in ppt_filenames:
-        # Generate session-specific job ID to avoid conflicts across sessions
         base_name = Path(filename).stem
         job_id = f"{session_id}_{base_name}"
 
-        # Check if job already exists (for resumability)
         existing = db.query(PPTJob).filter(PPTJob.id == job_id).first()
         if existing:
-            # Verify the file still exists
             ppt_path = settings.INPUT_PPT_DIR / existing.ppt_filename
             if ppt_path.exists():
                 created_jobs.append(existing)
@@ -311,3 +387,25 @@ def create_ppt_jobs(session_id: str, ppt_filenames: List[str]) -> List[PPTJob]:
     db.close()
 
     return created_jobs
+
+
+def test_ppt_parser(ppt_path: Path) -> Dict[str, Any]:
+    """Standalone function to test PPT parsing without database."""
+    processor = PPTProcessor("test")
+    return processor._parse_ppt(ppt_path)
+
+
+def validate_parsed_data(parsed_data: Dict[str, Any]) -> List[str]:
+    """Validate parsed PPT data and return list of issues."""
+    issues = []
+    if "ppt" not in parsed_data:
+        issues.append("Missing 'ppt' key")
+    if "slides" not in parsed_data:
+        issues.append("Missing 'slides' key")
+    else:
+        for i, slide in enumerate(parsed_data["slides"]):
+            if "slide_number" not in slide:
+                issues.append(f"Slide {i}: Missing slide_number")
+            if not slide.get("title") and not slide.get("text_boxes"):
+                issues.append(f"Slide {slide.get('slide_number', i)}: No title or text content")
+    return issues
